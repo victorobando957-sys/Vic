@@ -39,6 +39,12 @@ https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:0,VE PLUS HD
 http://200.59.188.3:8000/play/a14q
+#EXTINF:0,IQ CHANNEL HD
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:0,SOY HD
+http://tinyurl.com/TvZaTak014/s6
+#EXTINF:0,VEVO 80 HD
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 #EXTINF:0,TD+1 CR HD
 http://200.125.170.120:8000/play/a00g
 #EXTINF:0,TD+2 CR HD
