@@ -13,32 +13,16 @@ http://200.229.147.142:8000/play/a06t
 http://45.163.139.42:8000/play/a02o
 #EXTINF:0,CANAL 7 CR HD
 http://186.33.25.234:8125/play/a08l
-#EXTINF:40,MULTIMEDIOS CR HD
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:60,AZTECA INTERNACIONAL HD
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:30,LAS ESTRELLAS HD
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:100,REPRETEL 11 CR TDT
 http://45.163.139.42:8000/play/a03a
 #EXTINF:0,TELEMUNDO INTERNACIONAL HD
 http://186.33.25.234:8125/play/a02b
 #EXTINF:0,CANAL 13 SINART HD
 http://186.33.25.234:8125/play/a076
-#EXTINF:23,COSTA RICA CHANNEL TDT
-https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:0,CLASICOS TV CR TDT
-https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:0,D PELICULA PLUS HD
 http://201.151.118.136:8000/play/a005
 #EXTINF:0,DISTRITO COMEDIA HD
 http://201.151.118.136:8000/play/a007
-#EXTINF:24,TELESISTEMA HD
-https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
-#EXTINF:23,TELERED HD
-https://k20.usastreams.com:8081/telered/index.m3u8
-#EXTINF:30,TELE UNO CR TDT
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:0,VE PLUS HD
 http://200.59.188.3:8000/play/a14q
 #EXTINF:0,FOX CR HD
@@ -82,7 +66,7 @@ http://186.33.25.234:8125/play/a06a
 #EXTINF:0,HOME &amp; HEALTH HD
 http://186.33.25.234:8125/play/a04t
 #EXTINF:0,DISCOVERY TEATHER HD
-http://38.224.22.252:8000/play/a0bc
+http://186.33.25.234:8125/play/a04s
 #EXTINF:0,DISCOVERY ID HD
 http://186.33.25.234:8125/play/a06h
 #EXTINF:0,LIFETIME HD
@@ -104,7 +88,7 @@ http://186.33.25.234:8125/play/a08s
 #EXTINF:0,HBO FAMILY HD
 http://186.33.25.234:8125/play/a00w
 #EXTINF:0,A&amp;E HD
-http://200.125.170.120:8000/play/a02z
+http://186.33.25.234:8125/play/a029
 #EXTINF:0,STAR CHANNEL HD
 http://186.33.25.234:8125/play/a04k
 #EXTINF:0,GOLDEN HD
@@ -120,4 +104,4 @@ http://186.33.25.234:8125/play/a04m
 #EXTINF:0,STUDIO UNIVERSAL HD
 http://186.33.25.234:8125/play/a025
 #EXTINF:0,WARNER HD
-http://200.125.170.120:8000/play/a0a1
+http://186.33.25.234:8125/play/a04l
