@@ -16,7 +16,7 @@ http://186.33.25.234:8125/play/a08l
 #EXTINF:0,MULTIMEDIOS 8 CR HD
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:0,AZTECA INTERNACIONAL HD
-http://45.190.185.204:9000/play/a06t
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:0,LAS ESTRELLAS HD
 http://38.224.22.252:8000/play/a0bo
 #EXTINF:100,REPRETEL 11 CR TDT
@@ -67,10 +67,6 @@ http://45.190.185.204:9000/play/a0d4
 http://200.115.96.66:4000/play/a0jx
 #EXTINF:0,FOX SPORST 2 HD
 http://200.115.96.66:4000/play/a0h1
-#EXTINF:0,CLARO SPORTS 1 HD
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:0,BEIN SPORTS XTRA HD
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:0,CARTOON NETWORK HD
 http://186.33.25.234:8125/play/a00s
 #EXTINF:0,CARTOONITO HD
@@ -91,14 +87,6 @@ http://38.224.175.2:8000/play/a04o
 http://186.33.25.234:8125/play/a06f
 #EXTINF:0,TNT NOVELAS HD
 http://190.60.55.141:9083/play/a0go
-#EXTINF:0,CGTN HD
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:0,DW ESPAÑOL HD
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:0,RT ESPAÑOL HD
-https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
-#EXTINF:0,EWTN ESPAÑOL HD
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:0,ANIMAL PLANET HD
 http://186.33.25.234:8125/play/a026
 #EXTINF:0,DISCOVERY CHANNEL HD
@@ -107,8 +95,6 @@ http://186.33.25.234:8125/play/a06d
 http://186.33.25.234:8125/play/a01z
 #EXTINF:0,NAT GEO HD
 http://186.33.25.234:8125/play/a06a
-#EXTINF:0,LOVE NATURE HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 #EXTINF:0,HOME &amp; HEALTH HD
 http://186.33.25.234:8125/play/a04t
 #EXTINF:0,DISCOVERY TEATHER HD
