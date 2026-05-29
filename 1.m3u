@@ -95,6 +95,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:0,RT ESPAÑOL HD
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:0,EWTN ESPAÑOL HD
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:0,ANIMAL PLANET HD
 http://186.33.25.234:8125/play/a026
 #EXTINF:0,DISCOVERY CHANNEL HD
