@@ -33,14 +33,18 @@ https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 http://45.173.74.2:2010/play/a07h
 #EXTINF:0,D PELICULA PLUS HD
 http://201.151.118.136:8000/play/a005
+#EXTINF:0,TELESISTEMA CR HD
+https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
+#EXTINF:0,TELERED CR HD
+https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:0,VE PLUS HD
 http://200.59.188.3:8000/play/a14q
-#EXTINF:0,FOX CR HD
-http://186.33.25.234:8125/play/a0e0
 #EXTINF:0,TD+1 CR HD
 http://200.125.170.120:8000/play/a00g
 #EXTINF:0,TD+2 CR HD
 http://200.125.170.120:8000/play/a00h
+#EXTINF:0,FOX CR HD
+http://186.33.25.234:8125/play/a0e0
 #EXTINF:0,FUTV CR HD
 http://186.33.25.234:8125/play/a0dk
 #EXTINF:0,FUTV CR (OP 2) HD
