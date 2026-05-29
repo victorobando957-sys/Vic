@@ -115,3 +115,9 @@ http://190.14.249.223:17032/play/a03v
 http://186.33.25.234:8125/play/a04l
 #EXTINF:0,PLAYBOY LATINO HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:0,AZTECA INT TDT
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:0,VEVO TDT
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:0,TELEMICRO TDT
+http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
