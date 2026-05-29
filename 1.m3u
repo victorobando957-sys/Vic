@@ -6,11 +6,11 @@ http://45.163.139.42:8000/play/a04x
 #EXTINF:0,UNIVISION HD
 http://200.125.170.120:8000/play/a065
 #EXTINF:100,REPRETEL 4 CR TDT
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+http://45.163.139.42:8000/play/a02p
 #EXTINF:0,CANAL 5 MX HD
 http://200.229.147.142:8000/play/a06t
 #EXTINF:100,REPRETEL 6 CR TDT
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+http://45.163.139.42:8000/play/a02o
 #EXTINF:0,CANAL 7 CR HD
 http://186.33.25.234:8125/play/a08l
 #EXTINF:40,MULTIMEDIOS CR HD
@@ -20,7 +20,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:30,LAS ESTRELLAS HD
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:100,REPRETEL 11 CR TDT
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+http://45.163.139.42:8000/play/a03a
 #EXTINF:0,TELEMUNDO INTERNACIONAL HD
 http://200.125.170.120:8000/play/a031
 #EXTINF:0,CANAL 13 SINART HD
