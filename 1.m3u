@@ -63,5 +63,11 @@ http://38.224.22.252:8000/play/a07c
 http://38.224.22.252:8000/play/a0cr
 #EXTINF:0,WARNER HD
 http://38.224.22.252:8000/play/a07b
-#EXTINF:0,PLAYBOY LATINO HD
-http://186.33.25.234:8125/play/a07k
+#EXTINF:-1 tvg-id="HISTORY TDT" group-title="",HISTORY TDT
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-id="LOVE NATURE HD" group-title="",LOVE NATURE HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="NAT GEO TDT" group-title="",NAT GEO TDT
+http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="NATURE TIME ESPAÑOL HD" group-title="",NATURE TIME ESPAÑOL HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
