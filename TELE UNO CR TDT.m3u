@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TELE UNO CR TDT" group-title="",TELE UNO CR TDT
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8

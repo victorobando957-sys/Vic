@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CANAL 1 CR TDT" group-title="",CANAL 1 CR TDT
+https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
