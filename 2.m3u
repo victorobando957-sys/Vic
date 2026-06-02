@@ -99,3 +99,15 @@ https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:0,AZ CORAZON INTERNACIONAL HD
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8
+#EXTINF:0,AMERICA TV HD
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:0,CANAL 11 HONDURAS HD
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:0,CANAL 12 EL SALVADOR HD
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.
+#EXTINF:0,LA TELE PARAGUAY HD
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:0,RCN + HD
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0,SEÑAL COLOMBIA HD
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
