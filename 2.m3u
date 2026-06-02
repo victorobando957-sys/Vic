@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:78,CANAL 1 CR TDT
+#EXTINF:78,CANAL 1 CR HD
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:0,CANAL 2 CR HD
 http://45.163.139.42:8000/play/a04x
@@ -9,7 +9,7 @@ http://45.163.139.42:8000/play/a02p
 http://45.163.139.42:8000/play/a02o
 #EXTINF:0,CANAL 7 CR HD
 http://45.163.139.42:8000/play/a02k
-#EXTINF:40,CANAL 8 MULTIMEDIOS CR TDT
+#EXTINF:40,CANAL 8 MULTIMEDIOS CR HD
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:38,CANAL 9 IQ CHANNEL CR HD
 https://rtmp.info/iqtv/envivo/playlist.m3u8
@@ -25,11 +25,13 @@ http://45.163.139.42:8000/play/a02r
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:0,CANAL 15 CR HD
 http://45.163.139.42:8000/play/a035
-#EXTINF:0,CANAL 16 CLASICOS CR TDT
+#EXTINF:0,CANAL 16 CLASICOS CR HD
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
-#EXTINF:23,canal 18 CR TELESISTEMA 
+#EXTINF:0,CANAL COSTA RICA HD
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+#EXTINF:23,CANAL 18 TELESISTEMA HD
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
-#EXTINF:24,canal 19 TELERED CR HD
+#EXTINF:24,CANAL 19 TELERED CR HD
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:0,CANAL 21 TD+1 CR HD
 http://38.224.22.252:8000/play/a00m
@@ -41,11 +43,11 @@ http://186.33.25.234:8125/play/a0e0
 http://45.163.139.42:8000/play/123
 #EXTINF:0,CANAL 33 XPERT TV CR HD
 http://45.163.139.42:8000/play/a02x
-#EXTINF:30,CANAL 38 OPA! CR TDT
+#EXTINF:30,CANAL 38 OPA! CR HD
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w231966810.m3u8
-#EXTINF:30,CANAL 40 TELE UNO CR
+#EXTINF:30,CANAL 40 TELE UNO HD
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:16,CANAL 42 EXTRA CR TDT
+#EXTINF:16,CANAL 42 EXTRA CR HD
 https://d2qsan2ut81n2k.cloudfront.net/live/4508d726-f0c8-450c-b377-140a45707149/medialist_15609871089997455276_hls.m3u8
 #EXTINF:CANAL 43 TV SUR HD
 https://k20.usastreams.com:8081/tvsur/index.m3u8
