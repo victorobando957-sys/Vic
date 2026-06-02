@@ -11,45 +11,41 @@ http://45.163.139.42:8000/play/a02o
 http://45.163.139.42:8000/play/a02k
 #EXTINF:40,CANAL 8 MULTIMEDIOS CR TDT
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:38,CANAL 9 IQ CHANNEL CR HD
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:0,CANAL 10 VINTAGE MUSIC CR HD
+http://45.163.139.42:8000/play/a03f
 #EXTINF:0,CANAL 11 CR HD
 http://45.163.139.42:8000/play/a03a
+#EXTINF:0,CANAL 12 SOY CR HD
+http://45.163.139.42:8000/play/a03e
 #EXTINF:0,CANAL 13 CR HD
 http://45.163.139.42:8000/play/a02r
 #EXTINF:24,CANAL 14 COSTA RICA CHANNEL HD
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:0,CANAL 15 CR HD
 http://45.163.139.42:8000/play/a035
+#EXTINF:0,CANAL 16 CLASICOS CR TDT
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+#EXTINF:23,canal 18 CR TELESISTEMA 
+https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
+#EXTINF:24,canal 19 TELERED CR HD
+https://k20.usastreams.com:8081/telered/index.m3u8
+#EXTINF:0,CANAL 21 TD+1 CR HD
+http://38.224.22.252:8000/play/a00m
+#EXTINF:0,CANAL 22 TD+2 CR HD
+http://38.224.22.252:8000/play/a00n
+#EXTINF:0,CANAL 23 FOX CR HD
+http://186.33.25.234:8125/play/a0e0
+#EXTINF:0,CANAL 24 FUTV CR HD
+http://45.163.139.42:8000/play/123
+#EXTINF:0,CANAL 33 XPERT TV CR HD
+http://45.163.139.42:8000/play/a02x
 #EXTINF:30,CANAL 38 OPA! CR TDT
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w231966810.m3u8
+#EXTINF:30,CANAL 40 TELE UNO CR
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:16,CANAL 42 EXTRA CR TDT
 https://d2qsan2ut81n2k.cloudfront.net/live/4508d726-f0c8-450c-b377-140a45707149/medialist_15609871089997455276_hls.m3u8
-#EXTINF:0,CANAL CLASICOS CR TDT
-https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
-#EXTINF:0,FOX CR HD
-http://186.33.25.234:8125/play/a0e0
-#EXTINF:0,FUTV CR HD
-http://45.163.139.42:8000/play/123
-#EXTINF:38,IQ CHANNEL CR HD
-https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:0,SOY CR HD
-http://45.163.139.42:8000/play/a03e
-#EXTINF:0,TD+1 CR HD
-http://38.224.22.252:8000/play/a00m
-#EXTINF:0,TD+2 CR HD
-http://38.224.22.252:8000/play/a00n
-#EXTINF:30,TELE UNO CR TDT
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:29,TELEFIDES TDT
-https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
-#EXTINF:24,TELERED HD
-https://k20.usastreams.com:8081/telered/index.m3u8
-#EXTINF:23,TELESISTEMA HD
-https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
-#EXTINF:0,TIGO SPORTS CR HD
-http://45.163.139.42:8000/play/a03r
-#EXTINF:26,TV SUR HD
+#EXTINF:CANAL 43 TV SUR HD
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:0,VINTAGE MUSIC CR HD
-http://45.163.139.42:8000/play/a03f
-#EXTINF:0,XPERT TV CR HD
-http://45.163.139.42:8000/play/a02x
