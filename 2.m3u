@@ -47,6 +47,8 @@ http://200.115.96.66:4000/play/a0h1
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:0,CANAL 30 WOMENS SPORT NETWORK HD
 https://faststudios-womensnetwork-tcl.amagi.tv/playlist1080p.m3u8
+#EXTINF:0,CANAL 31 CLARO SPORTS HD
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:0,CANAL 33 XPERT TV CR HD
 http://45.163.139.42:8000/play/a02x
 #EXTINF:0,CANAL 38 OPA! CR HD
