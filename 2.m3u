@@ -57,18 +57,20 @@ http://200.115.96.66:4000/play/a0jx
 http://200.115.96.66:4000/play/a0h1
 #EXTINF:0,FOX DEPORTES HD
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:0,WWE SUPERSTARS CHANNEL HD
-https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
-#EXTINF:0,WOMENS SPORT NETWORK HD
-https://faststudios-womensnetwork-tcl.amagi.tv/playlist1080p.m3u8
 #EXTINF:0,CLARO SPORTS HD
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:0,TIGO SPORTS HD
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
+#EXTINF:0,FOX EN ESPAÑOL HD
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:0,BEIN SPORT XTRA EN ESPAÑOL HD
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:0,TyC HD
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:0,WWE SUPERSTARS CHANNEL HD
+https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
+#EXTINF:0,WOMENS SPORT NETWORK HD
+https://faststudios-womensnetwork-tcl.amagi.tv/playlist1080p.m3u8
 #EXTINF:0,SOY CR HD
 http://45.163.139.42:8000/play/a03e
 #EXTINF:0,TELERITMO HD
@@ -112,6 +114,8 @@ http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
 #EXTINF:0,TELESISTEMA 11 RD HD
 http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8
+#EXTINF:0,TELECANAL 12 RD HD
+https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
 #EXTINF:0,VENEVISION INTERNACIONAL HD
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:0,UNIVERSO HD
@@ -142,6 +146,10 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:0,LA TELE PARAGUAY HD
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:0,LA TELEMAX HD
+https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
+#EXTINF:0,TELEMUNDO ACCION HD
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0,RCN + HD
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0,SEÑAL COLOMBIA HD
@@ -166,10 +174,14 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0,FRANCE 24 ESPAÑOL HD
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:0,EURO NEWS ESPAÑOL HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=j3Z4oxuHXXK
 #EXTINF:0,STAR TVE HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:0,TVE HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+#EXTINF:0,ETB BASQUE HD
+https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
 #EXTINF:0,CANAL SUR ANDALUCIA HD
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:0,CLAN TV INFANTIL HD
@@ -178,6 +190,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,BOLIVISION HD
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,MEGA TV PARAGUAY HD
+https://www.desde-paraguay.com/mega.m3u8
 #EXTINF:0,CUBAVISION HD
 https://tv.picta.cu/cubavision/cubavision_0.m3u8
 #EXTINF:0,TELEPACIFICO HD
@@ -190,5 +204,3 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,CANAL EL CHAVO DEL 8 HD
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:0,FOX EN ESPAÑOL HD
-https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
