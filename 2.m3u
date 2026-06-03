@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,CANAL CLARO HD
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 #EXTINF:0,CANAL 1 CR HD
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:0,CANAL 2 CR HD
@@ -21,7 +19,7 @@ http://45.163.139.42:8000/play/a03a
 http://45.163.139.42:8000/play/a02r
 #EXTINF:0,CANAL 14 COSTA RICA CHANNEL HD
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:0,CANAL 15 CR HD
+#EXTINF:0,CANAL 15 UCR HD
 http://45.163.139.42:8000/play/a035
 #EXTINF:0,CANAL 16 CLASICOS CR HD
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
@@ -43,8 +41,6 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 https://d2qsan2ut81n2k.cloudfront.net/live/4508d726-f0c8-450c-b377-140a45707149/medialist_15609871089997455276_hls.m3u8
 #EXTINF:0,CANAL 43 CR HD
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:0,TUDN MX HD
-https://streaming.alwaysdata.net/tudn.php
 #EXTINF:0,TD+1 CR HD
 http://38.224.22.252:8000/play/a00m
 #EXTINF:0,TD+2 CR HD
@@ -63,6 +59,8 @@ http://200.115.96.66:4000/play/a0jx
 http://200.115.96.66:4000/play/a0h1
 #EXTINF:0,FOX DEPORTES HD
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:0,TUDN MX HD
+https://streaming.alwaysdata.net/tudn.php
 #EXTINF:0,AZTECA DEPORTES HD
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 #EXTINF:0,CLARO SPORTS HD
@@ -241,6 +239,8 @@ https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 #EXTINF:0,RED+ COLOMBIA HD
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:0,CANAL CLARO HD
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 #EXTINF:0,24/7 EL CHAVO DEL 8 HD
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:0,24/7 MACGYVER HD
