@@ -63,14 +63,16 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 #EXTINF:0,FOX EN ESPAÑOL HD
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF:0,BEIN SPORT XTRA EN ESPAÑOL HD
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:0,DEPORTES TVC HD
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
 #EXTINF:0,TyC HD
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:0,WWE SUPERSTARS CHANNEL HD
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:0,WOMENS SPORT NETWORK HD
 https://faststudios-womensnetwork-tcl.amagi.tv/playlist1080p.m3u8
+#EXTINF:0,BEIN SPORT XTRA EN ESPAÑOL HD
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:0,SOY CR HD
 http://45.163.139.42:8000/play/a03e
 #EXTINF:0,TELERITMO HD
@@ -193,7 +195,7 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,MEGA TV PARAGUAY HD
 https://www.desde-paraguay.com/mega.m3u8
 #EXTINF:0,CUBAVISION HD
-https://tv.picta.cu/cubavision/cubavision_0.m3u8
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:0,TELEPACIFICO HD
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:0,CANAL 13 LA RIOJA HD
