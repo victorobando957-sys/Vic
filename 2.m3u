@@ -196,9 +196,10 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
 #EXTINF:0,CANAL SUR ANDALUCIA HD
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:0,TASTEMADE ESPAÑA HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 #EXTINF:0,CLAN TV INFANTIL HD
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
-#EXTINF:0,ATV SUR HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8#EXTINF:0,ATV SUR HD
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,BOLIVISION HD
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -216,17 +217,15 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,EL 6 HD
 https://stream.elseis.do/canal6/live_1080.m3u8
+#EXTINF:0,T13 CHILE HD
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:0,PLANETA CHANNEL HD
 https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
 #EXTINF:0,TVMAX MEX HD
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
-#EXTINF:0,RED + COLOMBIA HD
+#EXTINF:0,RED+ COLOMBIA HD
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:0,24/7 EL CHAVO DEL 8 HD
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:0,24/7 MACGYVER HD
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
-
-
-#EXTINF:0,VIX UNIVISION HD
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
