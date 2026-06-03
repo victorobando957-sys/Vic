@@ -25,6 +25,8 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 http://45.163.139.42:8000/play/a035
 #EXTINF:0,CANAL 16 CLASICOS CR HD
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+#EXTINF:0,TELE + CR HD
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:0,CANAL 18 TELESISTEMA HD
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
 #EXTINF:0,CANAL 19 TELERED CR HD
@@ -94,6 +96,8 @@ https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 #EXTINF:0,VEVO 90 HD
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:0,RETRO PLUS TV HD
+https://tls-cl.cdnz.cl/retroplustvuno/live/chunklist_w2024432552.m3u8
 #EXTINF:0,NAT GEO HD
 http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
 #EXTINF:0,HISTORY HD
@@ -184,6 +188,8 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 #EXTINF:0,SAN JOSE TV HD
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
+#EXTINF:0,TELEFIDES HD
+https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
 #EXTINF:0,CGTN ESPAÑOL HD
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:0,RT ESPAÑOL HD
