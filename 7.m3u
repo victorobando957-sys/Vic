@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0,Telered Television (576p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://teleredtelevision.com/
+#EXTVLCOPT:network-caching=1000
+https://k20.usastreams.com:8081/telered/index.m3u8
+#EXTINF:0,TeleSUR Costa Rica (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:0,Telesur HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:0,Teletica 7 (720p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
+#EXTVLCOPT:network-caching=1000
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
