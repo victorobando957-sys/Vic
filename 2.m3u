@@ -2,15 +2,15 @@
 #EXTINF:0,CANAL CLARO HD
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 #EXTINF:100,CANAL 4 CR HD
-http://45.163.139.42:8000/play/a02p
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:100,CANAL 6 CR HD
-http://45.163.139.42:8000/play/a02o
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,CANAL 7 CR HD
 http://45.186.105.185:8000/play/a08c
 #EXTINF:0,CANAL 8 CR HD
-http://45.186.105.185:8000/play/a06f
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:100,CANAL 11 CR HD
-http://45.163.139.42:8000/play/a03a
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,COSTA RICA CHANNEL HD
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:0,CLASICOS CR HD
@@ -77,6 +77,30 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 #EXTINF:0,CGTN DOCUMENTARY HD
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:0,AZTECA INTERNACIONAL HD
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:0,LAS ESTRELLAS MX HD
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0,AZ CLICK HD
+https://azt-cl.otteravision.com/azt/cl/cl.m3u8
+#EXTINF:0,AZTECA 1 HD
+https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
+#EXTINF:0,ESTRELLA TV HD
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:0,CANAL 11 MEXICO HD
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:0,AZ CORAZON INTERNACIONAL HD
+https://azt-cz.otteravision.com/azt/cz/cz.m3u8
+#EXTINF:0,PELIMEX HD
+https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:0,MULTIMEDIOS 6 MEX HD
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,TELEMUNDO HD
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0,TELEMUNDO ACCION HD
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:0,VIX UNIVISION HD
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:0,EWTN ESPAÑOL HD
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:0,LA VOZ DE MARIA HD
@@ -119,30 +143,6 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:0,TELECOLOR HD
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
-#EXTINF:0,AZTECA INTERNACIONAL HD
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:0,LAS ESTRELLAS MX HD
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:0,AZ CLICK HD
-https://azt-cl.otteravision.com/azt/cl/cl.m3u8
-#EXTINF:0,AZTECA 1 HD
-https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
-#EXTINF:0,ESTRELLA TV HD
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:0,CANAL 11 MEXICO HD
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:0,AZ CORAZON INTERNACIONAL HD
-https://azt-cz.otteravision.com/azt/cz/cz.m3u8
-#EXTINF:0,PELIMEX HD
-https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:0,MULTIMEDIOS 6 MEX HD
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0,TELEMUNDO HD
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:0,TELEMUNDO ACCION HD
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:0,VIX UNIVISION HD
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:0,AMERICA TV HD
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:0,EL LIDER 5 HONDURAS HD
@@ -167,7 +167,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:0,LATINA PERU HD
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:0,ATV PERU HD
+#EXTINF:0,ATV SUR PERU HD
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,BOLIVISION HD
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -205,12 +205,10 @@ https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 #EXTINF:0,CLAN TV HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
-#EXTINF:0,ATV SUR HD
-
-
-
+#EXTINF:0,ATV HD
+https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
 #EXTINF:0,SOY CR HD
-http://45.163.139.42:8000/play/a03e
+http://tinyurl.com/TvZaTak014/s6
 #EXTINF:0,TELERITMO HD
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:0,NOW 70 HD
@@ -224,4 +222,4 @@ https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-v
 #EXTINF:0,IQ CHANNEL CR HD
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:0,VINTAGE MUSIC CR HD
-http://45.163.139.42:8000/play/a03f
+http://tinyurl.com/TvZaTak014/s7
