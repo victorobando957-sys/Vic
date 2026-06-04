@@ -1,54 +1,30 @@
 #EXTM3U
-#EXTINF:0,CANAL CLARO CR HD
-http://45.186.105.185:8000/play/a07n
-#EXTINF:0,CANAL 2 CR HD
-http://45.163.139.42:8000/play/a04x
-#EXTINF:0,UNIVISION HD
-http://45.186.105.185:8000/play/a0kr
+#EXTINF:0,CANAL CLARO HD
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 #EXTINF:100,CANAL 4 CR HD
 http://45.163.139.42:8000/play/a02p
-#EXTINF:0,CANAL 5 MX HD
-http://45.186.105.185:8000/play/a05o
 #EXTINF:100,CANAL 6 CR HD
 http://45.163.139.42:8000/play/a02o
 #EXTINF:0,CANAL 7 CR HD
 http://45.186.105.185:8000/play/a08c
 #EXTINF:0,CANAL 8 CR HD
 http://45.186.105.185:8000/play/a06f
-#EXTINF:0,AZTECA INTERNACIONAL HD
-http://200.115.96.66:4000/play/a011
-#EXTINF:0,LAS ESTRELLAS HD
-http://45.186.105.185:8000/play/a05n
 #EXTINF:100,CANAL 11 CR HD
 http://45.163.139.42:8000/play/a03a
-#EXTINF:0,TELEMUNDO INTERNACIONAL HD
-http://45.186.105.185:8000/play/a0gv
-#EXTINF:0,CANAL 13 SINART HD
-http://45.163.139.42:8000/play/a02r
-#EXTINF:0,DISTRITO COMEDIA HD
-http://201.151.118.136:8000/play/a007
-#EXTINF:0,DE PELICULA HD
-http://45.186.105.185:8000/play/a06i
-#EXTINF:0,CANAL 16 COSTA RICA CHANNEL HD
+#EXTINF:0,COSTA RICA CHANNEL HD
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:0,CANAL 17 CLASICOS CR HD
+#EXTINF:0,CLASICOS CR HD
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
-#EXTINF:0,CANAL 18 TELESISTEMA HD
+#EXTINF:0,TELESISTEMA HD
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
-#EXTINF:0,CANAL 19 TELERED CR HD
+#EXTINF:0,TELERED CR HD
 https://k20.usastreams.com:8081/telered/index.m3u8
-#EXTINF:0,CANAL 31 CRISTO VISION CR HD
-https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
-#EXTINF:0,CANAL 33 XPERT TV CR HD
-http://45.163.139.42:8000/play/a02x
-#EXTINF:0,CANAL 38 OPA! CR HD
+#EXTINF:0,38 OPA! CR HD
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w231966810.m3u8
-#EXTINF:0,CANAL 40 TELE UNO HD
+#EXTINF:0,TELE UNO HD
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:0,CANAL 42 EXTRA CR HD
+#EXTINF:0,EXTRA TV 42 CR HD
 https://d2qsan2ut81n2k.cloudfront.net/live/4508d726-f0c8-450c-b377-140a45707149/medialist_15609871089997455276_hls.m3u8
-#EXTINF:0,CANAL 43 CR HD
-https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:0,TD+1 CR HD
 http://200.125.170.122:8000/play/a00g
 #EXTINF:0,TD+2 CR HD
@@ -59,8 +35,6 @@ http://186.33.25.234:8125/play/a0e3
 http://45.186.105.185:8000/play/a068
 #EXTINF:0,FUTV CR (OP 2) HD
 http://186.33.25.234:8125/play/a0dk
-#EXTINF:0,TUDN MX HD
-http://45.186.105.185:8000/play/a05p
 #EXTINF:0,ESPN CENTRAL 1 HD
 http://45.186.105.185:8000/play/a06x
 #EXTINF:0,ESPN CENTRAL 2 HD
@@ -69,52 +43,40 @@ http://45.186.105.185:8000/play/a06y
 http://200.115.96.66:4000/play/a0jx
 #EXTINF:0,FOX SPORTS 2 MX HD
 http://200.115.96.66:4000/play/a0h1
-#EXTINF:0,HISTORY CHANNEL HD
-http://45.186.105.185:8000/play/a0gk
-#EXTINF:0,ANIMAL PLANET HD
-http://45.186.105.185:8000/play/a07u
-#EXTINF:0,DISCOVERY CHANNEL HD
-http://45.186.105.185:8000/play/a0kn
+#EXTINF:0,FOX DEPORTES HD
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:0,TUDN MX HD
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:0,AZTECA DEPORTES HD
+https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
+#EXTINF:0,CLARO SPORTS HD
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+#EXTINF:0,TIGO SPORTS HD
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
+#EXTINF:0,FOX EN ESPAÑOL HD
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+#EXTINF:0,DEPORTES TVC HD
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:0,TyC HD
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:0,BEIN SPORT XTRA EN ESPAÑOL HD
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:0,WOMENS SPORT NETWORK HD
+https://faststudios-womensnetwork-tcl.amagi.tv/playlist1080p.m3u8
+#EXTINF:0,WWE SUPERSTARS CHANNEL HD
+https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:0,NAT GEO HD
-http://45.186.105.185:8000/play/a0kk
-#EXTINF:0,HISTORY CHANNEL HD
-http://45.186.105.185:8000/play/a0gk
-#EXTINF:0,DISCOVERY ID HD
-http://45.186.105.185:8000/play/a0ks
-#EXTINF:0,E! ENTERTAIRMENT HD
-http://45.186.105.185:8000/play/a0gr
-#EXTINF:0,LIFETIME HD
-http://45.186.105.185:8000/play/a0gb
-#EXTINF:0,TLC HD
-http://186.33.25.234:8125/play/a04f
-#EXTINF:0,A&E HD
-http://45.186.105.185:8000/play/a0gt
-#EXTINF:0,AMC HD
-http://45.186.105.185:8000/play/a0gu
-#EXTINF:0,CINECANAL HD
-http://45.186.105.185:8000/play/a0hq
-#EXTINF:0,DHE HD
-http://45.186.105.185:8000/play/a0gy
-#EXTINF:0,FX HD
-http://45.186.105.185:8000/play/a0gw
-#EXTINF:0,HBO 1 HD
-http://45.186.105.185:8000/play/a0l2
-#EXTINF:0,HBO 2 HD
-http://45.186.105.185:8000/play/a00c
-#EXTINF:0,HBO FAMILY HD
-http://45.186.105.185:8000/play/a0l5
-#EXTINF:0,SONY CHANNEL HD
-http://45.186.105.185:8000/play/a0hp
-#EXTINF:0,SPACE HD
-http://45.186.105.185:8000/play/a0iz
-#EXTINF:0,STAR CHANNEL HD
-http://45.186.105.185:8000/play/a0hn
-#EXTINF:0,TNT HD
-http://45.186.105.185:8000/play/a0hu
-#EXTINF:0,UNIVERSAL HD
-http://45.186.105.185:8000/play/a0ih
-#EXTINF:0,WARNER HD
-http://45.186.105.185:8000/play/a0ho
+http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
+#EXTINF:0,HISTORY HD
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:0,LOVE NATURE HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
+#EXTINF:0,NATURE TIME HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
+#EXTINF:0,WILD PLANET HD
+https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
+#EXTINF:0,CGTN DOCUMENTARY HD
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:0,EWTN ESPAÑOL HD
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:0,LA VOZ DE MARIA HD
@@ -131,34 +93,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0,FRANCE 24 ESPAÑOL HD
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:0,NAT GEO HD
-http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
-#EXTINF:0,HISTORY HD
-https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-#EXTINF:0,LOVE NATURE HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
-#EXTINF:0,NATURE TIME HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
-#EXTINF:0,WILD PLANET HD
-https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
-#EXTINF:0,CGTN DOCUMENTARY HD
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:0,SOY CR HD
-http://45.163.139.42:8000/play/a03e
-#EXTINF:0,TELERITMO HD
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0,VINTAGE MUSIC CR HD
-http://45.163.139.42:8000/play/a03f
-#EXTINF:0,IQ CHANNEL CR HD
-https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:0,NOW 70 HD
-https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&amp;ads_amznbrmid=&amp;ads_amznregion=&amp;ads_amznslots=&amp;ads_app_bundle=com.rakuten.tv&amp;ads_app_store_url=rakuten.tv&amp;ads_app_version=&amp;ads_brand_name=&amp;ads_content_classification=0&amp;ads_device_lmt=1&amp;ads_device_make=&amp;ads_device_model=&amp;ads_device_type=web&amp;ads_device_year=&amp;ads_env=prod&amp;ads_gam_correlator=&amp;ads_gdpr_consent=&amp;ads_market=es&amp;ads_os_language=&amp;ads_player_height=&amp;ads_player_width=&amp;ads_pod_type=playerpage_midroll&amp;ads_ppid=&amp;ads_rtv_content_id=5284&amp;ads_rtv_content_language=eng&amp;ads_rtvid=271859&amp;ads_streaming_id=4502bde1-0c90-40b8-bf62-2ea25e526b2a&amp;ads_tivo_devcountry=&amp;ads_tivo_devmakedate=&amp;ads_tivo_mvpd=&amp;ads_tivo_platform=&amp;ads_tivo_usid=&amp;ads_tivo_uxloc=&amp;ads_user_type=visitor
-#EXTINF:0,NOW 80 HD
-https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=871&amp;ads_amznbrmid=&amp;ads_amznregion=&amp;ads_amznslots=&amp;ads_app_bundle=com.rakuten.tv&amp;ads_app_store_url=rakuten.tv&amp;ads_app_version=&amp;ads_brand_name=&amp;ads_content_classification=0&amp;ads_device_lmt=1&amp;ads_device_make=&amp;ads_device_model=&amp;ads_device_type=web&amp;ads_device_year=&amp;ads_env=prod&amp;ads_gam_correlator=&amp;ads_gdpr_consent=&amp;ads_market=es&amp;ads_os_language=&amp;ads_player_height=&amp;ads_player_width=&amp;ads_pod_type=playerpage_midroll&amp;ads_ppid=&amp;ads_rtv_content_id=5318&amp;ads_rtv_content_language=eng&amp;ads_rtvid=271859&amp;ads_streaming_id=272e7c4f-e996-446a-bca6-eda66672946a&amp;ads_tivo_devcountry=&amp;ads_tivo_devmakedate=&amp;ads_tivo_mvpd=&amp;ads_tivo_platform=&amp;ads_tivo_usid=&amp;ads_tivo_uxloc=&amp;ads_user_type=visitor
-#EXTINF:0,VEVO 80 HD
-https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-#EXTINF:0,VEVO 90 HD
-https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 #EXTINF:0,OROMAR TV HD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:0,RTS HD
@@ -269,33 +203,25 @@ https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:0,TASTEMADE ESPAÑA HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
-#EXTINF:0,CLAN TV INFANTIL HD
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8#EXTINF:0,ATV SUR HD
-#EXTINF:0,CANAL CLARO HD
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-#EXTINF:0,FOX DEPORTES HD
-https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:0,TUDN MX HD
-https://streaming.alwaysdata.net/tudn.php
-#EXTINF:0,AZTECA DEPORTES HD
-https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
-#EXTINF:0,CLARO SPORTS HD
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:0,TIGO SPORTS HD
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
-#EXTINF:0,FOX EN ESPAÑOL HD
-https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF:0,DEPORTES TVC HD
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
-#EXTINF:0,TyC HD
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:0,WWE SUPERSTARS CHANNEL HD
-https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
-#EXTINF:0,WOMENS SPORT NETWORK HD
-https://faststudios-womensnetwork-tcl.amagi.tv/playlist1080p.m3u8
-#EXTINF:0,BEIN SPORT XTRA EN ESPAÑOL HD
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:0,24/7 EL CHAVO DEL 8 HD
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:0,24/7 MACGYVER HD
-https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+#EXTINF:0,CLAN TV HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
+#EXTINF:0,ATV SUR HD
+
+
+
+#EXTINF:0,SOY CR HD
+http://45.163.139.42:8000/play/a03e
+#EXTINF:0,TELERITMO HD
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0,NOW 70 HD
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&amp;ads_amznbrmid=&amp;ads_amznregion=&amp;ads_amznslots=&amp;ads_app_bundle=com.rakuten.tv&amp;ads_app_store_url=rakuten.tv&amp;ads_app_version=&amp;ads_brand_name=&amp;ads_content_classification=0&amp;ads_device_lmt=1&amp;ads_device_make=&amp;ads_device_model=&amp;ads_device_type=web&amp;ads_device_year=&amp;ads_env=prod&amp;ads_gam_correlator=&amp;ads_gdpr_consent=&amp;ads_market=es&amp;ads_os_language=&amp;ads_player_height=&amp;ads_player_width=&amp;ads_pod_type=playerpage_midroll&amp;ads_ppid=&amp;ads_rtv_content_id=5284&amp;ads_rtv_content_language=eng&amp;ads_rtvid=271859&amp;ads_streaming_id=4502bde1-0c90-40b8-bf62-2ea25e526b2a&amp;ads_tivo_devcountry=&amp;ads_tivo_devmakedate=&amp;ads_tivo_mvpd=&amp;ads_tivo_platform=&amp;ads_tivo_usid=&amp;ads_tivo_uxloc=&amp;ads_user_type=visitor
+#EXTINF:0,NOW 80 HD
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=871&amp;ads_amznbrmid=&amp;ads_amznregion=&amp;ads_amznslots=&amp;ads_app_bundle=com.rakuten.tv&amp;ads_app_store_url=rakuten.tv&amp;ads_app_version=&amp;ads_brand_name=&amp;ads_content_classification=0&amp;ads_device_lmt=1&amp;ads_device_make=&amp;ads_device_model=&amp;ads_device_type=web&amp;ads_device_year=&amp;ads_env=prod&amp;ads_gam_correlator=&amp;ads_gdpr_consent=&amp;ads_market=es&amp;ads_os_language=&amp;ads_player_height=&amp;ads_player_width=&amp;ads_pod_type=playerpage_midroll&amp;ads_ppid=&amp;ads_rtv_content_id=5318&amp;ads_rtv_content_language=eng&amp;ads_rtvid=271859&amp;ads_streaming_id=272e7c4f-e996-446a-bca6-eda66672946a&amp;ads_tivo_devcountry=&amp;ads_tivo_devmakedate=&amp;ads_tivo_mvpd=&amp;ads_tivo_platform=&amp;ads_tivo_usid=&amp;ads_tivo_uxloc=&amp;ads_user_type=visitor
+#EXTINF:0,VEVO 80 HD
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:0,VEVO 90 HD
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:0,IQ CHANNEL CR HD
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:0,VINTAGE MUSIC CR HD
+http://45.163.139.42:8000/play/a03f
