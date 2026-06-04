@@ -7,6 +7,8 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,CANAL 7 CR HD
 http://45.186.105.185:8000/play/a08c
+#EXTINF:0,CANAL 7 CR TDT
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 #EXTINF:0,CANAL 8 CR HD
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:100,CANAL 11 CR HD
@@ -95,7 +97,7 @@ https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0,MULTIMEDIOS 6 MEX HD
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0,TELEMUNDO HD
+#EXTINF:0,TELEMUNDO PR HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0,TELEMUNDO ACCION HD
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
