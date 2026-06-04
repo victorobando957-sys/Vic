@@ -7,7 +7,9 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,CANAL 7 CR HD
 http://45.186.105.185:8000/play/a08c
-#EXTINF:0,CANAL 7 CR TDT
+#EXTINF:0,Teletica 7 (720p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
+#EXTVLCOPT:network-caching=1000
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 #EXTINF:0,CANAL 8 CR HD
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
