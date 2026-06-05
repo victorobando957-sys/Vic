@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:0,A&E HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0gt/index.m3u8
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0gu/index.m3u8
+#EXTINF:0,Canal Claro HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a07n/index.m3u8
+#EXTINF:0,CARTOON NT HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0l0/index.m3u8
+#EXTINF:11,CINECANAL HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0hq/index.m3u8
+#EXTINF:0,De Pelicula
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a06i/index.m3u8
+#EXTINF:0,DHE HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0gy/index.m3u8
+#EXTINF:0,Discovery ID HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0ks/index.m3u8
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a07w/index.m3u8
+#EXTINF:0,Disney JR
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0g1/index.m3u8
+#EXTINF:0,DISTRITO COMEDIA
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a07i/index.m3u8
+#EXTINF:0,E! Entertairment HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0gr/index.m3u8
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0gw/index.m3u8
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0l5/index.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0l2/index.m3u8
+#EXTINF:0,HBO2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a00c/index.m3u8
+#EXTINF:0,LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a05n/index.m3u8
+#EXTINF:0,LIFE TIME
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0gb/index.m3u8
+#EXTINF:0,Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0kq/index.m3u8
+#EXTINF:0,SEMILLITAS
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0g3/index.m3u8
+#EXTINF:0,SONY HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0hp/index.m3u8
+#EXTINF:0,SPACE HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0iz/index.m3u8
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0hn/index.m3u8
+#EXTINF:0,Tigo Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a02v/index.m3u8
+#EXTINF:0,TL NOVELAS
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a05m/index.m3u8
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0hh/index.m3u8
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0hu/index.m3u8
+#EXTINF:0,TNT Novelas
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a05v/index.m3u8
+#EXTINF:0,TUDN MX
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a05p/index.m3u8
+#EXTINF:0,WARNER HD
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.185:8000/play/a0ho/index.m3u8
