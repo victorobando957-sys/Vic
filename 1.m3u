@@ -31,39 +31,31 @@ http://201.151.118.136:8000/play/a007
 http://45.163.139.42:8000/play/a035
 #EXTINF:0,DE PELICULA HD
 http://190.61.34.164:8000/play/a02c
-
-#EXTINF:0,CANAL 15 CR HD
-http://45.163.139.42:8000/play/a035
+#EXTINF:0,VE PLUS HD
+http://200.229.147.142:8000/play/a06i
 #EXTINF:0,TELESISTEMA CR HD
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
 #EXTINF:0,TELERED CR HD
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:0,DE PELICULA HD
 http://190.61.34.164:8000/play/a02c
-
-
-#EXTINF:0,CANAL 31 CRISTO VISION CR TDT
-https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 #EXTINF:0,CANAL 33 XPERT TV CR HD
 http://45.163.139.42:8000/play/a02x
 #EXTINF:0,CANAL 38 OPA! CR TDT
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w231966810.m3u8
 #EXTINF:0,CANAL 42 EXTRA CR TDT
 https://d2qsan2ut81n2k.cloudfront.net/live/4508d726-f0c8-450c-b377-140a45707149/medialist_15609871089997455276_hls.m3u8
-
-#EXTINF:0,FUTV CR HD
-http://45.163.139.42:8000/play/123
-#EXTINF:0,FUTV CR (OP 2) HD
-http://45.186.105.185:8000/play/a068
-#EXTINF:0,FUTV CR (OP 3) HD
-http://186.33.25.234:8125/play/a0dk
 #EXTINF:0,TD+1 CR HD
 http://200.125.170.122:8000/play/a00g
 #EXTINF:0,TD+2 CR HD
 http://200.125.170.122:8000/play/a00h
-#EXTINF:0,FOX CR HD
+#EXTINF:0,FUTV CR (OP 1) HD
+http://45.186.105.185:8000/play/a068
+#EXTINF:0,FUTV CR (OP 2) HD
+http://186.33.25.234:8125/play/a0dk
+#EXTINF:0,FOX CR (OP 1) HD
 http://186.33.25.234:8125/play/a0e3
-#EXTINF:0,FOX CR HD (OP 2)
+#EXTINF:0,FOX CR (OP 2) HD
 http://45.186.105.185:8000/play/a02v
 #EXTINF:0,TUDN MX HD
 http://45.186.105.185:8000/play/a05p
@@ -110,7 +102,7 @@ http://190.61.34.164:8000/play/a019
 #EXTINF:0,DISNEY JR HD
 http://190.60.52.28:5001/play/a0c3
 #EXTINF:0,DISNEY CHANNEL HD
-http://190.61.34.164:8000/play/a01c/index.m3u8
+http://190.61.34.164:8000/play/a01c
 #EXTINF:0,NICKELODEON HD
 http://190.61.34.164:8000/play/a01g
 #EXTINF:0,NICK JR HD
