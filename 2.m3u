@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:0,CANAL CLARO HD
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+#EXTINF:0,CANAL 1 CR HD
+https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:0,CANAL 2 VIX UNIVISION HD
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:0,CANAL 3 UNIVERSO HD
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:100,CANAL 4 CR HD
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,CANAL 5 TELEMUNDO PR HD
@@ -141,8 +145,6 @@ http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8
 https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
 #EXTINF:0,VENEVISION INTERNACIONAL HD
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:0,UNIVERSO HD
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:0,TELECOLOR HD
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:0,AMERICA TV HD
