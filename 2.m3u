@@ -235,3 +235,7 @@ https://teleon.tv/stream/cG5wODQ4NDYyM3BucDg0.m3u8
 https://www.tvporinternet2.com/univision-en-vivo-por-internet.php
 #EXTINF:0,MEGA HD
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=323881623
+#EXTINF:0,TELEMUNDO HD
+http://179.60.51.134:8888/TELEMUNDO/index.m3u8
+#EXTINF:0,UNIVISION HD
+http://179.60.51.134:8888/UNIVISION/index.m3u8
