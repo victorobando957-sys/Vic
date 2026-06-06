@@ -239,3 +239,8 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?n
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 #EXTINF:0,UNIVISION HD
 http://179.60.51.134:8888/UNIVISION/index.m3u8
+#EXTINF:0,TELEMUNDO (XTREMO) HD
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:0,TV AZTECA (XTREMO) HD
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_9.m3u8?network_id=13745
+
