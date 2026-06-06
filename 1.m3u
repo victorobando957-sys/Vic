@@ -13,10 +13,8 @@ http://45.186.105.185:8000/play/a05o
 http://45.163.139.42:8000/play/a02o
 #EXTINF:0,CANAL 7 CR HD
 http://45.163.139.42:8000/play/a02k
-
 #EXTINF:0,CANAL 8 CR HD
 http://45.163.139.42:8000/play/a02k
-
 #EXTINF:0,AZTECA INTERNACIONAL HD
 http://200.115.96.66:4000/play/a011
 #EXTINF:0,LAS ESTRELLAS HD
@@ -33,6 +31,17 @@ http://201.151.118.136:8000/play/a007
 http://45.163.139.42:8000/play/a035
 #EXTINF:0,DE PELICULA HD
 http://190.61.34.164:8000/play/a02c
+
+#EXTINF:0,CANAL 15 CR HD
+http://45.163.139.42:8000/play/a035
+#EXTINF:0,TELESISTEMA CR HD
+https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
+#EXTINF:0,TELERED CR HD
+https://k20.usastreams.com:8081/telered/index.m3u8
+#EXTINF:0,DE PELICULA HD
+http://190.61.34.164:8000/play/a02c
+
+
 #EXTINF:0,CANAL 31 CRISTO VISION CR TDT
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 #EXTINF:0,CANAL 33 XPERT TV CR HD
