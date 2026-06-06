@@ -17,6 +17,8 @@ http://45.163.139.42:8000/play/a02k
 http://45.186.105.185:8000/play/a06f
 #EXTINF:0,AZTECA INTERNACIONAL HD
 http://200.115.96.66:4000/play/a011
+#EXTINF:0,AZTECA INTERNACIONAL 2 HD
+http://200.229.147.142:8000/play/a08u
 #EXTINF:0,LAS ESTRELLAS HD
 http://45.186.105.185:8000/play/a05n
 #EXTINF:0,CANAL 11 CR HD
@@ -41,14 +43,10 @@ https://k20.usastreams.com:8081/telered/index.m3u8
 http://200.229.147.142:8000/play/a06i
 #EXTINF:0,CANAL 33 XPERT TV CR HD
 http://45.163.139.42:8000/play/a02x
-#EXTINF:0,CANAL 38 OPA! CR TDT
-https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w231966810.m3u8
-#EXTINF:0,CANAL 42 EXTRA CR TDT
-https://d2qsan2ut81n2k.cloudfront.net/live/4508d726-f0c8-450c-b377-140a45707149/medialist_15609871089997455276_hls.m3u8
 #EXTINF:0,TD+1 CR HD
-http://200.125.170.122:8000/play/a00g
+http://200.229.147.142:8000/play/a00d
 #EXTINF:0,TD+2 CR HD
-http://200.125.170.122:8000/play/a00h
+http://200.229.147.142:8000/play/a00e
 #EXTINF:0,FUTV CR (OP 1) HD
 http://45.186.105.185:8000/play/a068
 #EXTINF:0,FUTV CR (OP 2) HD
