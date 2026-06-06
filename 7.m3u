@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:0,CANAL CLARO HD
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+#EXTINF:0,CANAL 1 CR HD
+https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
+#EXTINF:0,CANAL 2 CR HD
+http://45.163.139.42:8000/play/a04x
 #EXTINF:0,CANAL 3 VIX UNIVISION HD
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:100,CANAL 4 CR HD
@@ -19,6 +23,8 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:100,CANAL 11 CR HD
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+#EXTINF:100,CANAL 13 CR HD
+http://45.163.139.42:8000/play/a02r
 #EXTINF:0,COSTA RICA CHANNEL HD
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:0,CLASICOS CR HD
