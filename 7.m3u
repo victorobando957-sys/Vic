@@ -25,10 +25,10 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:100,CANAL 11 CR HD
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
-#EXTINF:100,CANAL 13 CR HD
-http://45.163.139.42:8000/play/a02r
 #EXTINF:0,CANAL 12 AZ CORAZON INTERNACIONAL HD
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8
+#EXTINF:100,CANAL 13 CR HD
+http://45.163.139.42:8000/play/a02r
 #EXTINF:0,COSTA RICA CHANNEL HD
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:0,CLASICOS CR HD
@@ -44,9 +44,9 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:0,EXTRA TV 42 CR HD
 https://d2qsan2ut81n2k.cloudfront.net/live/4508d726-f0c8-450c-b377-140a45707149/medialist_15609871089997455276_hls.m3u8
 #EXTINF:0,TD+1 CR HD
-http://200.125.170.122:8000/play/a00g
+http://200.229.147.142:8000/play/a00d
 #EXTINF:0,TD+2 CR HD
-http://200.125.170.122:8000/play/a00h
+http://200.229.147.142:8000/play/a00e
 #EXTINF:0,FOX CR HD
 http://186.33.25.234:8125/play/a0e3
 #EXTINF:0,FUTV CR (OP 1) HD
@@ -63,6 +63,8 @@ http://200.115.96.66:4000/play/a0jx
 http://200.115.96.66:4000/play/a0h1
 #EXTINF:0,FOX DEPORTES HD
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:0,TUDN MX HD
+http://45.186.105.185:8000/play/a05p
 #EXTINF:0,TUDN USA HD
 https://streaming.alwaysdata.net/tudn.php
 #EXTINF:0,AZTECA DEPORTES HD
