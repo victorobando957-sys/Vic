@@ -5,12 +5,12 @@ https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:0,CANAL 2 CR HD
 http://45.163.139.42:8000/play/a04x
-#EXTINF:0,CANAL 3 VIX UNIVISION HD
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:0,CANAL 3 UNIVISION HD
+http://45.186.105.185:8000/play/a0kr
 #EXTINF:100,CANAL 4 CR HD
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-#EXTINF:0,CANAL 5 TELEMUNDO PR HD
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0,CANAL 5 MX HD
+http://45.186.105.185:8000/play/a05o
 #EXTINF:100,CANAL 6 CR HD
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,Teletica 7 (720p) [Geo-blocked]
@@ -25,17 +25,21 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:100,CANAL 11 CR HD
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
-#EXTINF:0,CANAL 12 AZ CORAZON INTERNACIONAL HD
-https://azt-cz.otteravision.com/azt/cz/cz.m3u8
+#EXTINF:0,CANAL 12 TELEMUNDO INTERNACIONAL HD
+http://45.186.105.185:8000/play/a0gv
 #EXTINF:100,CANAL 13 CR HD
 http://45.163.139.42:8000/play/a02r
-#EXTINF:0,COSTA RICA CHANNEL HD
+#EXTINF:0,CANAL 14 DISTRITO COMEDIA HD
+http://201.151.118.136:8000/play/a007
+#EXTINF:0,CANAL 15 DE PELICULA HD
+http://190.61.34.164:8000/play/a02c
+#EXTINF:0,CANAL 16 COSTA RICA CHANNEL HD
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:0,CLASICOS CR HD
+#EXTINF:0,CANAL 17 CLASICOS CR HD
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
-#EXTINF:0,TELESISTEMA HD
+#EXTINF:0,CANAL 18 TELESISTEMA HD
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
-#EXTINF:0,TELERED CR HD
+#EXTINF:0,CANAL 19 TELERED CR HD
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:0,38 OPA! CR HD
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w231966810.m3u8
@@ -109,8 +113,14 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0,MULTIMEDIOS 6 MEX HD
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,VIX UNIVISION HD
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:0,TELEMUNDO PR HD
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0,TELEMUNDO ACCION HD
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:0,AZ CORAZON INTERNACIONAL HD
+https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 #EXTINF:0,EWTN ESPAÑOL HD
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:0,LA VOZ DE MARIA HD
@@ -237,3 +247,77 @@ https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-v
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:0,VINTAGE MUSIC CR HD
 http://tinyurl.com/TvZaTak014/s7
+#EXTINF:0,PASIONES HD
+http://45.186.105.185:8000/play/a0kq
+#EXTINF:0,TL NOVELAS HD
+http://45.186.105.185:8000/play/a05m
+#EXTINF:0,TNT NOVELAS HD
+http://45.186.105.185:8000/play/a05v
+#EXTINF:0,HISTORY CHANNEL HD
+http://45.186.105.185:8000/play/a0gk
+#EXTINF:0,ANIMAL PLANET HD
+http://45.186.105.185:8000/play/a07u
+#EXTINF:0,DISCOVERY CHANNEL HD
+http://45.186.105.185:8000/play/a0kn
+#EXTINF:0,NAT GEO HD
+http://45.186.105.185:8000/play/a0kk
+#EXTINF:0,DISCOVERY ID HD
+http://190.61.34.164:8000/play/a02o
+#EXTINF:0,LIFETIME HD
+http://190.61.34.164:8000/play/a02f
+#EXTINF:0,E! ENTERTAIRMENT HD
+http://45.186.105.185:8000/play/a0gr
+#EXTINF:0,BITME HD
+http://190.61.34.164:8000/play/a01h
+#EXTINF:0,DREAMWORKS HD
+http://190.61.34.164:8000/play/a04e
+#EXTINF:0,CARTOON NETWORK HD
+http://186.33.25.234:8125/play/a00s
+#EXTINF:0,SEMILLITAS SD
+http://45.186.105.185:8000/play/a0g3
+#EXTINF:0,DISCOVERY KIDS HD
+http://190.61.34.164:8000/play/a01b
+#EXTINF:0,CARTOONITO HD
+http://190.61.34.164:8000/play/a019
+#EXTINF:0,DISNEY JR HD
+http://190.60.52.28:5001/play/a0c3
+#EXTINF:0,DISNEY CHANNEL HD
+http://190.61.34.164:8000/play/a01c
+#EXTINF:0,NICKELODEON HD
+http://190.61.34.164:8000/play/a01g
+#EXTINF:0,NICK JR HD
+http://190.61.34.164:8000/play/a01f
+#EXTINF:0,A&E HD
+http://190.61.34.164:8000/play/a02p
+#EXTINF:0,AMC HD
+http://190.61.34.164:8000/play/a020
+#EXTINF:0,CINECANAL HD
+http://45.186.105.185:8000/play/a0hq
+#EXTINF:0,DHE HD
+http://45.186.105.185:8000/play/a0gy
+#EXTINF:0,FX HD
+http://45.186.105.185:8000/play/a0gw
+#EXTINF:0,GOLDEN HD
+http://190.61.34.164:8000/play/a008
+#EXTINF:0,HBO1 HD
+http://45.186.105.185:8000/play/a0l2
+#EXTINF:0,HBO2 HD
+http://190.61.34.164:8000/play/a00e
+#EXTINF:0,HBO Family HD
+http://45.186.105.185:8000/play/a0l5
+#EXTINF:0,SONY HD
+http://190.61.34.164:8000/play/a00b
+#EXTINF:0,SPACE HD
+http://190.61.34.164:8000/play/a024
+#EXTINF:0,STAR CHANNEL HD
+http://190.61.34.164:8000/play/a01q
+#EXTINF:0,TNT HD
+http://45.186.105.185:8000/play/a0hu
+#EXTINF:0,TCM HD
+http://190.61.34.164:8000/play/a02b
+#EXTINF:0,UNIVERSAL CHANNEL HD
+http://190.61.34.164:8000/play/a02e
+#EXTINF:0,USA HD
+http://190.61.34.164:8000/play/a04l
+#EXTINF:0,WARNER HD
+http://45.186.105.185:8000/play/a0ho
