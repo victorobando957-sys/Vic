@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,CANAL CLARO HD
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+#EXTINF:0,CANAL 3 VIX UNIVISION HD
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:100,CANAL 4 CR HD
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:100,CANAL 6 CR HD
@@ -11,6 +13,10 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 #EXTINF:0,CANAL 8 CR HD
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0,CANAL 9 AZTECA INTERNACIONAL HD
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:0,CANAL 10 LAS ESTRELLAS MX HD
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:100,CANAL 11 CR HD
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,COSTA RICA CHANNEL HD
@@ -47,7 +53,7 @@ http://200.115.96.66:4000/play/a0jx
 http://200.115.96.66:4000/play/a0h1
 #EXTINF:0,FOX DEPORTES HD
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:0,TUDN MX HD
+#EXTINF:0,TUDN USA HD
 https://streaming.alwaysdata.net/tudn.php
 #EXTINF:0,AZTECA DEPORTES HD
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
@@ -79,10 +85,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 #EXTINF:0,CGTN DOCUMENTARY HD
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:0,AZTECA INTERNACIONAL HD
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:0,LAS ESTRELLAS MX HD
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0,AZ CLICK HD
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 #EXTINF:0,AZTECA 1 HD
@@ -101,8 +103,6 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0,TELEMUNDO ACCION HD
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:0,VIX UNIVISION HD
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:0,EWTN ESPAÑOL HD
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:0,LA VOZ DE MARIA HD
@@ -115,6 +115,10 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:0,DW ESPAÑOL HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:0,24 HORAS HD
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:0,CNN INTERNACIONAL HD
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0,TELESUR HD
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0,FRANCE 24 ESPAÑOL HD
@@ -225,11 +229,3 @@ https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-v
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:0,VINTAGE MUSIC CR HD
 http://tinyurl.com/TvZaTak014/s7
-#EXTINF:0,CANAL 10 CHIAPAS MX HD
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:0,24 HORAS HD
-https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:0,CNN INTERNACIONAL HD
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0,CARTOON HD
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
