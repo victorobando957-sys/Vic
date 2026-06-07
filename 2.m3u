@@ -233,9 +233,33 @@ https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-v
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:0,VINTAGE MUSIC CR HD
 http://tinyurl.com/TvZaTak014/s7
-#EXTINF:0,CANAL CHAVO DEL 8 HD
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:0,CANAL FILMEX COMEDIA HD
+https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8
 #EXTINF:0,UNIVISION HD
 http://179.60.51.134:8888/UNIVISION/index.m3u8
 #EXTINF:0,TELEMUNDO INTERNACIONAL HD
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
+#EXTINF:0,CANAL FOX SPORTS USA  HD
+https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
+#EXTINF:0,LOVE NATURE ESPAÑOL HD
+https://jmp2.uk/rok-03a419fc4dff59b39b176d9f76b09e38.m3u8
+#EXTINF:0,NATURALEZA SALVAJE HD
+https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
+#EXTINF:0,NATURE VISION HD
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992106&ads.xumo_streamId=99992106&ads.channelId=99992106&ads.ad_tag_id=9320&ads.csid=lgchannels_us_naturevision_ssai&ads.channelName=naturevision_us&ads.xumo_contentName=NatureVisionTV&ads.xumo_contentId=133&ads.xumo_providerName=NatureVisionTV&ads.xumo_providerId=133&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:0,CANAL 24/7 EL CHAVO DEL 8 HD
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:0,CANAL 24/7 VIX HD
+https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
+#EXTINF:0,CANAL 24/7 CASO CERRADO HD
+https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
+#EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 2)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993041/hls/master.m3u8?ads.xumo_channelId=99993041&ads.asnw=169843&ads.afid=367536734&ads.sfid=17470300&ads.csid=lgchannels_us_telemundoscripted_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=2562&ads.xumo_contentName=TelemundoScripted&ads.xumo_providerId=2562&ads.xumo_providerName=TelemundoScripted&ads.channelId=99993041&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:0,CANAL 24/7 EL CHAVO DEL 8 HD
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:0,AMC ESPAÑOL HD
+https://wurlrainbowmedia.global.transmit.live/hls/68c87c330d9e3b5fb3957d88/playlist.m3u8?wurl_channel=1228&wurl_name=AMCenEspanol&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:0,NICK JR INGLES (PLUTO TV) HD
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+#EXTINF:0,NICKELODEON INGLES (PLUTO TV) HD
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
