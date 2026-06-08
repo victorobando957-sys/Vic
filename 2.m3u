@@ -40,21 +40,21 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:0,EXTRA TV 42 CR HD
 https://d2qsan2ut81n2k.cloudfront.net/live/4508d726-f0c8-450c-b377-140a45707149/medialist_15609871089997455276_hls.m3u8
 #EXTINF:0,TD+1 CR HD
-http://200.229.147.142:8000/play/a00d
+http://45.190.185.204:9000/play/a044
 #EXTINF:0,TD+2 CR HD
-http://200.229.147.142:8000/play/a00e
+http://45.190.185.204:9000/play/a045
 #EXTINF:0,FOX CR HD
-http://186.33.25.234:8125/play/a0e3
-#EXTINF:0,FUTV CR (OP 1) HD
-http://45.186.105.185:8000/play/a068
-#EXTINF:0,FUTV CR (OP 2) HD
-http://186.33.25.234:8125/play/a0dk
+http://45.190.185.204:9000/play/a0ep
+#EXTINF:0,FUTV CR HD
+http://45.190.185.204:9000/play/a0dk
 #EXTINF:0,ESPN CENTRAL 1 HD
-http://45.186.105.185:8000/play/a06x
+http://190.61.34.164:8000/play/a01i
 #EXTINF:0,ESPN CENTRAL 2 HD
-http://45.186.105.185:8000/play/a06y
+http://190.61.34.164:8000/play/a01j
 #EXTINF:0,TUDN MX HD
-http://45.186.105.185:8000/play/a05p
+http://190.61.34.164:8000/play/a01o
+#EXTINF:0,TUDN USA HD
+https://streaming.alwaysdata.net/tudn.php
 #EXTINF:0,FOX DEPORTES HD
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:0,AZTECA DEPORTES HD
@@ -73,6 +73,8 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:0,WOMENS SPORT NETWORK HD
 https://faststudios-womensnetwork-tcl.amagi.tv/playlist1080p.m3u8
+#EXTINF:0,CANAL FOX SPORTS USA  HD
+https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:0,WWE SUPERSTARS CHANNEL HD
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:0,NAT GEO HD
@@ -159,6 +161,8 @@ http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
 http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8
 #EXTINF:0,TELECANAL 12 RD HD
 https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
+#EXTINF:0,CANAL MULTIVISION HD
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
 #EXTINF:0,VENEVISION INTERNACIONAL HD
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:0,TELECOLOR HD
@@ -247,8 +251,6 @@ https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8
 http://179.60.51.134:8888/UNIVISION/index.m3u8
 #EXTINF:0,TELEMUNDO INTERNACIONAL HD
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
-#EXTINF:0,CANAL FOX SPORTS USA  HD
-https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:0,CANAL 24/7 VIX HD
 https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
 #EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 1)
