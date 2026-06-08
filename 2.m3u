@@ -209,6 +209,8 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:0,TVE HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+#EXTINF:0,ETB HD
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:0,CANAL SUR ANDALUCIA HD
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:0,TASTEMADE ESPAÑA HD
@@ -259,6 +261,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 #EXTINF:0,CANAL ALF (INGLES) HD
 https://tinyurl.com/mvyuanha?.m3u8
+#EXTINF:0,FIFA HD
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:0,CANAL HABANA HD
 https://tv.picta.cu/infantil/infantil_0.m3u8
 #EXTINF:0,AMC ESPAÑOL HD
