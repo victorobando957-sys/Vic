@@ -273,3 +273,9 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c87c330d9e3b5fb3957d88/playl
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:0,NICKELODEON INGLES (PLUTO TV) HD
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+#EXTINF:0,UNIVISION PRUEBAS HD
+http://200.59.188.3:8000/play/a14v
+#EXTINF:0,TELEMUNDO INTER PRUEBAS HD
+http://200.59.188.3:8000/play/a17z
+#EXTINF:0,VE PLUS PRUEBAS HD
+http://200.59.188.3:8000/play/a14q
