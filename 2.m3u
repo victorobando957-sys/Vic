@@ -9,8 +9,6 @@ https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:100,CANAL 4 CR HD
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-#EXTINF:0,CANAL 5 TELEMUNDO PR HD
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:100,CANAL 6 CR HD
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:3593,Teletica 7 (720p) [Geo-blocked]
@@ -31,8 +29,6 @@ https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:0,CANAL 16 CLASICOS CR HD
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
-#EXTINF:0,CANAL 17 TELEMUNDO INTERNACIONAL HD
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:0,CANAL 18 TELESISTEMA HD
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
 #EXTINF:0,CANAL 19 TELERED CR HD
@@ -117,6 +113,8 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0,TELEMUNDO NOTICIAS CALIFORNIA HD
 https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
+#EXTINF:0,TELEMUNDO PR HD
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:0,EWTN ESPAÑOL HD
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:0,LA VOZ DE MARIA HD
