@@ -277,6 +277,8 @@ https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:0,AMC ESPAÑOL HD
 https://wurlrainbowmedia.global.transmit.live/hls/68c87c330d9e3b5fb3957d88/playlist.m3u8?wurl_channel=1228&wurl_name=AMCenEspanol&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:0,FX HD
+http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 #EXTINF:0,SPACE HD
 http://190.11.225.124:5000/live/space_hd/playlist.m3u8
 #EXTINF:0,GOLDEN EDGE HD
