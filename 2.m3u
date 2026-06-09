@@ -101,12 +101,30 @@ https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992106&ads.xumo_streamId=99992106&ads.channelId=99992106&ads.ad_tag_id=9320&ads.csid=lgchannels_us_naturevision_ssai&ads.channelName=naturevision_us&ads.xumo_contentName=NatureVisionTV&ads.xumo_contentId=133&ads.xumo_providerName=NatureVisionTV&ads.xumo_providerId=133&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:0,CGTN DOCUMENTARY HD
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:0,SOY CR HD
+http://tinyurl.com/TvZaTak014/s6
+#EXTINF:0,TELERITMO HD
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0,NOW 70 HD
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&amp;ads_amznbrmid=&amp;ads_amznregion=&amp;ads_amznslots=&amp;ads_app_bundle=com.rakuten.tv&amp;ads_app_store_url=rakuten.tv&amp;ads_app_version=&amp;ads_brand_name=&amp;ads_content_classification=0&amp;ads_device_lmt=1&amp;ads_device_make=&amp;ads_device_model=&amp;ads_device_type=web&amp;ads_device_year=&amp;ads_env=prod&amp;ads_gam_correlator=&amp;ads_gdpr_consent=&amp;ads_market=es&amp;ads_os_language=&amp;ads_player_height=&amp;ads_player_width=&amp;ads_pod_type=playerpage_midroll&amp;ads_ppid=&amp;ads_rtv_content_id=5284&amp;ads_rtv_content_language=eng&amp;ads_rtvid=271859&amp;ads_streaming_id=4502bde1-0c90-40b8-bf62-2ea25e526b2a&amp;ads_tivo_devcountry=&amp;ads_tivo_devmakedate=&amp;ads_tivo_mvpd=&amp;ads_tivo_platform=&amp;ads_tivo_usid=&amp;ads_tivo_uxloc=&amp;ads_user_type=visitor
+#EXTINF:0,NOW 80 HD
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=871&amp;ads_amznbrmid=&amp;ads_amznregion=&amp;ads_amznslots=&amp;ads_app_bundle=com.rakuten.tv&amp;ads_app_store_url=rakuten.tv&amp;ads_app_version=&amp;ads_brand_name=&amp;ads_content_classification=0&amp;ads_device_lmt=1&amp;ads_device_make=&amp;ads_device_model=&amp;ads_device_type=web&amp;ads_device_year=&amp;ads_env=prod&amp;ads_gam_correlator=&amp;ads_gdpr_consent=&amp;ads_market=es&amp;ads_os_language=&amp;ads_player_height=&amp;ads_player_width=&amp;ads_pod_type=playerpage_midroll&amp;ads_ppid=&amp;ads_rtv_content_id=5318&amp;ads_rtv_content_language=eng&amp;ads_rtvid=271859&amp;ads_streaming_id=272e7c4f-e996-446a-bca6-eda66672946a&amp;ads_tivo_devcountry=&amp;ads_tivo_devmakedate=&amp;ads_tivo_mvpd=&amp;ads_tivo_platform=&amp;ads_tivo_usid=&amp;ads_tivo_uxloc=&amp;ads_user_type=visitor
+#EXTINF:0,VEVO 80 HD
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:0,VEVO 90 HD
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:0,IQ CHANNEL CR HD
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:0,VINTAGE MUSIC CR HD
+http://tinyurl.com/TvZaTak014/s7
 #EXTINF:0,AZ CLICK HD
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 #EXTINF:0,AZTECA 1 HD
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
 #EXTINF:0,CANAL 11 MEXICO HD
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:0,DE PELICULA HD
+http://190.11.225.124:5000/live/depelicula/playlist.m3u8
 #EXTINF:0,PELIMEX HD
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0,CANAL FILMEX COMEDIA HD
@@ -175,8 +193,10 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:0,AMERICA TV HD
 https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:0,EL LIDER 5 HONDURAS HD
+#EXTINF:0,TSI HONDURAS HD
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+#EXTINF:0,CANAL 5 EL LIDER HND HD
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 #EXTINF:0,CANAL 10 EL SALVADOR HD
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:0,CANAL 10 CR HD
@@ -239,22 +259,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
 #EXTINF:0,AMC ESPAÑOL HD
 https://wurlrainbowmedia.global.transmit.live/hls/68c87c330d9e3b5fb3957d88/playlist.m3u8?wurl_channel=1228&wurl_name=AMCenEspanol&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:0,SOY CR HD
-http://tinyurl.com/TvZaTak014/s6
-#EXTINF:0,TELERITMO HD
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0,NOW 70 HD
-https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&amp;ads_amznbrmid=&amp;ads_amznregion=&amp;ads_amznslots=&amp;ads_app_bundle=com.rakuten.tv&amp;ads_app_store_url=rakuten.tv&amp;ads_app_version=&amp;ads_brand_name=&amp;ads_content_classification=0&amp;ads_device_lmt=1&amp;ads_device_make=&amp;ads_device_model=&amp;ads_device_type=web&amp;ads_device_year=&amp;ads_env=prod&amp;ads_gam_correlator=&amp;ads_gdpr_consent=&amp;ads_market=es&amp;ads_os_language=&amp;ads_player_height=&amp;ads_player_width=&amp;ads_pod_type=playerpage_midroll&amp;ads_ppid=&amp;ads_rtv_content_id=5284&amp;ads_rtv_content_language=eng&amp;ads_rtvid=271859&amp;ads_streaming_id=4502bde1-0c90-40b8-bf62-2ea25e526b2a&amp;ads_tivo_devcountry=&amp;ads_tivo_devmakedate=&amp;ads_tivo_mvpd=&amp;ads_tivo_platform=&amp;ads_tivo_usid=&amp;ads_tivo_uxloc=&amp;ads_user_type=visitor
-#EXTINF:0,NOW 80 HD
-https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=871&amp;ads_amznbrmid=&amp;ads_amznregion=&amp;ads_amznslots=&amp;ads_app_bundle=com.rakuten.tv&amp;ads_app_store_url=rakuten.tv&amp;ads_app_version=&amp;ads_brand_name=&amp;ads_content_classification=0&amp;ads_device_lmt=1&amp;ads_device_make=&amp;ads_device_model=&amp;ads_device_type=web&amp;ads_device_year=&amp;ads_env=prod&amp;ads_gam_correlator=&amp;ads_gdpr_consent=&amp;ads_market=es&amp;ads_os_language=&amp;ads_player_height=&amp;ads_player_width=&amp;ads_pod_type=playerpage_midroll&amp;ads_ppid=&amp;ads_rtv_content_id=5318&amp;ads_rtv_content_language=eng&amp;ads_rtvid=271859&amp;ads_streaming_id=272e7c4f-e996-446a-bca6-eda66672946a&amp;ads_tivo_devcountry=&amp;ads_tivo_devmakedate=&amp;ads_tivo_mvpd=&amp;ads_tivo_platform=&amp;ads_tivo_usid=&amp;ads_tivo_uxloc=&amp;ads_user_type=visitor
-#EXTINF:0,VEVO 80 HD
-https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-#EXTINF:0,VEVO 90 HD
-https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-#EXTINF:0,IQ CHANNEL CR HD
-https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:0,VINTAGE MUSIC CR HD
-http://tinyurl.com/TvZaTak014/s7
 #EXTINF:0,UNIVISION HD
 http://179.60.51.134:8888/UNIVISION/index.m3u8
 #EXTINF:0,TELEMUNDO INTERNACIONAL HD
@@ -273,13 +277,15 @@ https://tinyurl.com/mvyuanha?.m3u8
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:0,NICKELODEON INGLES (PLUTO TV) HD
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-#EXTINF:0,CANAL 5 MX HD
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 #EXTINF:0,CARTOONITO HD
 http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
-#EXTINF:0,DE PELICULA HD
-http://190.11.225.124:5000/live/depelicula/playlist.m3u8
+#EXTINF:0,NICK JR HD
+http://190.11.225.124:5000/live/nickjr/playlist.m3u8
 #EXTINF:0,TELEMUNDO INTER HD
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-#EXTINF:100,NICK JR HD
-http://190.11.225.124:5000/live/nickjr/playlist.m3u8
+#EXTINF:0,TNT HD
+http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8
+#EXTINF:0,SPACE HD
+http://190.11.225.124:5000/live/space_hd/playlist.m3u8
+#EXTINF:0,GOLDEN HD
+http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
