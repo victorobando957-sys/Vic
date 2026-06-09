@@ -9,6 +9,8 @@ https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:100,CANAL 4 CR HD
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,CANAL 5 VIX HD
+https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
 #EXTINF:100,CANAL 6 CR HD
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:3593,Teletica 7 (720p) [Geo-blocked]
@@ -27,6 +29,8 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 #EXTINF:0,CANAL 14 COSTA RICA CHANNEL HD
 https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:0,CANAL 15 ESTRELLA TV HD
+https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:0,CANAL 16 CLASICOS CR HD
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:0,CANAL 18 TELESISTEMA HD
@@ -69,6 +73,8 @@ https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
 #EXTINF:0,TyC HD
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:0,CANAL 24/7 FIFA HD
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:0,BEIN SPORT XTRA EN ESPAÑOL HD
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:0,WOMENS SPORT NETWORK HD
@@ -81,14 +87,14 @@ https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
 #EXTINF:0,HISTORY HD
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-#EXTINF:0,LOVE NATURE HD
+#EXTINF:0,LOVE NATURE ESPAÑOL HD
+https://jmp2.uk/rok-03a419fc4dff59b39b176d9f76b09e38.m3u8
+#EXTINF:0,LOVE NATURE INGLES HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 #EXTINF:0,NATURE TIME HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
 #EXTINF:0,WILD PLANET HD
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
-#EXTINF:0,LOVE NATURE ESPAÑOL HD
-https://jmp2.uk/rok-03a419fc4dff59b39b176d9f76b09e38.m3u8
 #EXTINF:0,NATURALEZA SALVAJE HD
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 #EXTINF:0,NATURE VISION HD
@@ -99,18 +105,18 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 #EXTINF:0,AZTECA 1 HD
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
-#EXTINF:0,ESTRELLA TV HD
-https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:0,CANAL 11 MEXICO HD
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:0,PELIMEX HD
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:0,MULTIMEDIOS 6 MEX HD
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,CANAL FILMEX COMEDIA HD
+https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8
 #EXTINF:0,RTG MX HD
 https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8
 #EXTINF:0,NUEVE TV MX HD
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+#EXTINF:0,MULTIMEDIOS 6 MEX HD
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0,TELEMUNDO ACCION HD
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0,TELEMUNDO NOTICIAS CALIFORNIA HD
@@ -181,6 +187,8 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,DTV EL SALVADOR HD
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:0,CANAL HABANA CUBA HD
+https://tv.picta.cu/infantil/infantil_0.m3u8
 #EXTINF:0,LA TELE PARAGUAY HD
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:0,LA TELEMAX HD
@@ -229,6 +237,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16intern
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 #EXTINF:0,ATV HD
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
+#EXTINF:0,AMC ESPAÑOL HD
+https://wurlrainbowmedia.global.transmit.live/hls/68c87c330d9e3b5fb3957d88/playlist.m3u8?wurl_channel=1228&wurl_name=AMCenEspanol&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:0,SOY CR HD
 http://tinyurl.com/TvZaTak014/s6
 #EXTINF:0,TELERITMO HD
@@ -245,14 +255,10 @@ https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-v
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:0,VINTAGE MUSIC CR HD
 http://tinyurl.com/TvZaTak014/s7
-#EXTINF:0,CANAL FILMEX COMEDIA HD
-https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8
 #EXTINF:0,UNIVISION HD
 http://179.60.51.134:8888/UNIVISION/index.m3u8
 #EXTINF:0,TELEMUNDO INTERNACIONAL HD
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
-#EXTINF:0,CANAL 24/7 VIX HD
-https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
 #EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 1)
 https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
 #EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 2)
@@ -263,19 +269,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 #EXTINF:0,CANAL 24/7 ALF (INGLES) HD
 https://tinyurl.com/mvyuanha?.m3u8
-#EXTINF:0,CANAL 24/7 FIFA HD
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:0,CANAL HABANA HD
-https://tv.picta.cu/infantil/infantil_0.m3u8
-#EXTINF:0,AMC ESPAÑOL HD
-https://wurlrainbowmedia.global.transmit.live/hls/68c87c330d9e3b5fb3957d88/playlist.m3u8?wurl_channel=1228&wurl_name=AMCenEspanol&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:0,NICK JR INGLES (PLUTO TV) HD
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:0,NICKELODEON INGLES (PLUTO TV) HD
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-#EXTINF:0,UNIVISION PRUEBAS HD
-http://200.59.188.3:8000/play/a14v
-#EXTINF:0,TELEMUNDO INTER PRUEBAS HD
-http://200.59.188.3:8000/play/a17z
-#EXTINF:0,VE PLUS PRUEBAS HD
-http://200.59.188.3:8000/play/a14q
