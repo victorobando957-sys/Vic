@@ -277,15 +277,15 @@ https://tinyurl.com/mvyuanha?.m3u8
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:0,NICKELODEON INGLES (PLUTO TV) HD
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-#EXTINF:0,CARTOONITO HD
-http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
-#EXTINF:0,NICK JR HD
-http://190.11.225.124:5000/live/nickjr/playlist.m3u8
-#EXTINF:0,TELEMUNDO INTER HD
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-#EXTINF:0,TNT HD
-http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8
 #EXTINF:0,SPACE HD
 http://190.11.225.124:5000/live/space_hd/playlist.m3u8
-#EXTINF:0,GOLDEN HD
+#EXTINF:0,GOLDEN EDGE HD
 http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
+#EXTINF:0,SONY HD
+http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
+#EXTINF:0,HBO FAMILY HD
+http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
+#EXTINF:0,DHE HD
+http://190.11.225.124:5000/dhe_hd/playlist.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL HD
+http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
