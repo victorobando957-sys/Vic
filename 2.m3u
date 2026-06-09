@@ -9,11 +9,11 @@ https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:100,CANAL 4 CR HD
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-#EXTINF:0,CANAL 5 VIX HD
+#EXTINF:0,CANAL 5 VIX MEX HD
 https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
 #EXTINF:100,CANAL 6 CR HD
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-#EXTINF:3593,Teletica 7 (720p) [Geo-blocked]
+#EXTINF:3593,TELETICA 7 HD
 #EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
