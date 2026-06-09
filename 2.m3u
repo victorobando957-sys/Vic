@@ -273,3 +273,13 @@ https://tinyurl.com/mvyuanha?.m3u8
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:0,NICKELODEON INGLES (PLUTO TV) HD
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+#EXTINF:0,CANAL 5 MX HD
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+#EXTINF:0,CARTOONITO HD
+http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
+#EXTINF:0,DE PELICULA HD
+http://190.11.225.124:5000/live/depelicula/playlist.m3u8
+#EXTINF:0,TELEMUNDO INTER HD
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:100,NICK JR HD
+http://190.11.225.124:5000/live/nickjr/playlist.m3u8
