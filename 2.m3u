@@ -1,55 +1,65 @@
 #EXTM3U
 #EXTINF:0,CANAL CLARO HD
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-#EXTINF:0,CANAL 1 CR HD
-https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
-#EXTINF:0,CANAL 2 UNIVISION HD
+#EXTINF:0,CANAL 1 UNIVISION HD
 http://190.61.34.164:8000/play/a017
+#EXTINF:0,CANAL 2 CR HD
+http://45.163.139.42:8000/play/a04x
 #EXTINF:0,CANAL 3 TELEMUNDO INTERNACIONAL HD
 http://190.61.34.164:8000/play/a001
-#EXTINF:100,CANAL 4 CR HD
+#EXTINF:100,CANAL 4 REPRETEL CR HD
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-#EXTINF:0,CANAL 5 VIX MEX HD
-https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
-#EXTINF:100,CANAL 6 CR HD
+#EXTINF:100,CANAL 5 DISTRITO COMEDIA HD
+http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
+#EXTINF:100,CANAL 6 REPRETEL CR HD
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:3593,CANAL 7 TELETICA HD
 #EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
-#EXTINF:0,CANAL 8 CR HD
+#EXTINF:0,CANAL 8 MULTIMEDIOS CR HD
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:0,CANAL 9 AZTECA INTERNACIONAL HD
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:0,CANAL 10 LAS ESTRELLAS MX HD
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:100,CANAL 11 CR HD
+#EXTINF:100,CANAL 11 REPRETEL CR HD
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,CANAL 12 AZ CORAZON INTER HD
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8
+#EXTINF:0,CANAL 13 SINART CR HD
+http://45.163.139.42:8000/play/a02r
 #EXTINF:0,CANAL 14 COSTA RICA CHANNEL HD
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:0,CANAL 15 ESTRELLA TV HD
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:0,CANAL 16 CLASICOS CR HD
+#EXTINF:0,CANAL 15 CLASICOS CR HD
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+#EXTINF:0,CANAL 16 ESTRELLA TV HD
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:0,CANAL 17 VIX MEX HD
+https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
 #EXTINF:0,CANAL 18 TELESISTEMA HD
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
 #EXTINF:0,CANAL 19 TELERED CR HD
 https://k20.usastreams.com:8081/telered/index.m3u8
-#EXTINF:0,38 OPA! CR HD
+#EXTINF:0,CANAL 31 CRISTO VISION CR HD
+https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
+#EXTINF:0,CANAL 33 XPERT TV CR HD
+http://45.163.139.42:8000/play/a02x
+#EXTINF:0,CANAL 38 OPA! CR HD
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w231966810.m3u8
-#EXTINF:0,TELE UNO HD
+#EXTINF:0,CANAL 40 TELE UNO CR HD
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:0,EXTRA TV 42 CR HD
+#EXTINF:0,CANAL 42 EXTRA TV CR HD
 https://d2qsan2ut81n2k.cloudfront.net/live/4508d726-f0c8-450c-b377-140a45707149/medialist_15609871089997455276_hls.m3u8
-#EXTINF:0,TD+1 CR HD
+#EXTINF:0,CANAL 43 TV SUR CR HD
+https://k20.usastreams.com:8081/tvsur/index.m3u8
+#EXTINF:0,CANAL TD+1 CR HD
 http://45.190.185.204:9000/play/a044
-#EXTINF:0,TD+2 CR HD
+#EXTINF:0,CANAL TD+2 CR HD
 http://45.190.185.204:9000/play/a045
-#EXTINF:0,FOX CR HD
+#EXTINF:0,CANAL FOX CR HD
 http://45.190.185.204:9000/play/a0ep
-#EXTINF:0,FUTV CR HD
+#EXTINF:0,CANAL FUTV CR HD
 http://45.190.185.204:9000/play/a0dk
 #EXTINF:0,ESPN CENTRAL 1 HD
 http://190.61.34.164:8000/play/a01i
@@ -135,6 +145,8 @@ https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:0,MULTIMEDIOS 6 MEX HD
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,UNIVERSO HD
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:0,VIX UNIVISION HD
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:0,TELEMUNDO ACCION HD
@@ -273,3 +285,5 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_5.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:0,CANAL 24/7 MACGYVER HD
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+#EXTINF:0,PLAYBOY HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m 3 u 8
