@@ -81,5 +81,33 @@ http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
 #EXTINF:0,TELESISTEMA 11 RD HD
 http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8
+#EXTINF:0,TELEMUNDO HD
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:0,UNIVERSO HD
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:0,DISTRITO COMEDIA HD
+http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
+#EXTINF:0,CANAL 24/7 ALF (INGLES) HD
+https://tinyurl.com/mvyuanha?.m3u8
+#EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 1)
+https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
+#EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 2)
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:0,CANAL 24/7 EL CHAVO DEL 8 HD
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:0,CANAL 24/7 MACGYVER HD
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+#EXTINF:0,PLAYBOY HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:0,XXX DORCEL HD
+http://91.146.94.234:10001/play/a0jc
+#EXTINF:0,XXX BRAZZERS HD
+http://91.146.94.234:10001/play/a010
+#EXTINF:0,XXX PRIVATE HD
+http://91.146.94.234:10001/play/private
+#EXTINF:0,XXX HUSTLER HD
+http://91.146.94.234:10001/play/a06k
+#EXTINF:0,XXX SEXTREME HD
+http://181.78.211.244:8005/play/a0ba
+#EXTINF:0,XXX VENUS HD
+http://181.78.50.191:7225/play/a077
