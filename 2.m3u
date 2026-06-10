@@ -3,8 +3,9 @@
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 #EXTINF:0,CANAL 1 CR HD
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
-#EXTINF:0,CANAL 3 VIX UNIVISION HD
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:0,CANAL 2 UNIVISION HD
+http://190.61.34.164:8000/play/a017
+
 #EXTINF:100,CANAL 4 CR HD
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,CANAL 5 VIX MEX HD
@@ -133,6 +134,8 @@ https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:0,MULTIMEDIOS 6 MEX HD
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,VIX UNIVISION HD
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:0,TELEMUNDO ACCION HD
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0,TELEMUNDO NOTICIAS CALIFORNIA HD
