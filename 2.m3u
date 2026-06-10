@@ -5,8 +5,8 @@ https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:0,CANAL 2 VIX UNIVISION HD
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-#EXTINF:0,CANAL 3 UNIVERSO HD
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:0,CANAL 3 TELEMUNDO INTER HD
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_2.m3u8
 #EXTINF:100,CANAL 4 CR HD
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,CANAL 5 VIX MEX HD
