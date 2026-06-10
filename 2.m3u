@@ -295,3 +295,5 @@ http://138.121.15.230:9002/TCM/index.m3u8
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:0,UNIVISION HD
 http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:0,TELEONCE HD
+https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo1/chunks.m3u8
