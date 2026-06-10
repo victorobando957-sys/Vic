@@ -1,100 +1,67 @@
 #EXTM3U
-#EXTINF:11,A&E
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a08b/index.m3u8
-#EXTINF:11,AMC
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0h2/index.m3u8
-#EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0bp/index.m3u8
-#EXTINF:0,CARTOON NETWORK HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0iu/index.m3u8
-#EXTINF:0,Cine Premium HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0j3/index.m3u8
-#EXTINF:0,CINECANAL HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0g7/index.m3u8
-#EXTINF:0,DHE HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0bx/index.m3u8
-#EXTINF:0,DISC THEATHER HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0en/index.m3u8
-#EXTINF:0,Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0i4/index.m3u8
-#EXTINF:0,Discovery ID HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0i8/index.m3u8
-#EXTINF:11,Discovery Kids HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0hs/index.m3u8
-#EXTINF:0,Discovery World HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0i5/index.m3u8
+#EXTINF:0,FOX CR HD
+http://45.166.93.156:9999/play/a0ek
+#EXTINF:0,FUTV CR HD
+http://45.166.93.156:9999/play/a0hw
+#EXTINF:0,ESPN 1 HD
+http://45.166.93.156:9999/play/a0hx8
 #EXTINF:0,ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0hy/index.m3u8
-#EXTINF:11,ESPN HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0hx/index.m3u8
-#EXTINF:0,Golden Premiere HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0g3/index.m3u8
-#EXTINF:0,HBO HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0im/index.m3u8
-#EXTINF:0,History HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0h8/index.m3u8
-#EXTINF:0,Home & Health HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0eo/index.m3u8
-#EXTINF:0,Nat Geo HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0i1/index.m3u8
-#EXTINF:11,Pasiones HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0i6/index.m3u8
-#EXTINF:0,Sony Movies HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0bw/index.m3u8
-#EXTINF:0,SPACE HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0fh/index.m3u8
-#EXTINF:0,STAR CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a09n/index.m3u8
-#EXTINF:0,Studio Universal HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0is/index.m3u8
-#EXTINF:0,TCM
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0bj/index.m3u8
-#EXTINF:0,Telemundo
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0go/index.m3u8
-#EXTINF:11,Tigo Sports HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0ek/index.m3u8
-#EXTINF:0,TNT HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0em/index.m3u8
+http://45.166.93.156:9999/play/a0hy
+#EXTINF:0,Telemundo HD
+http://45.166.93.156:9999/play/a0go
+#EXTINF:0,Univision HD
+http://45.166.93.156:9999/play/a0i7
+#EXTINF:0,Pasiones HD
+http://45.166.93.156:9999/play/a0i6
 #EXTINF:0,TNT Novelas
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0gt/index.m3u8
+http://45.166.93.156:9999/play/a0gt
 #EXTINF:0,TNT Series HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0i3/index.m3u8
-#EXTINF:0,Tooncast
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a09a/index.m3u8
-#EXTINF:11,Univision HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a0i7/index.m3u8
+http://45.166.93.156:9999/play/a0i3
+#EXTINF:0,CARTOON NETWORK HD
+http://45.166.93.156:9999/play/a0iu
+#EXTINF:0,Discovery Kids HD
+http://45.166.93.156:9999/play/a0hs
+#EXTINF:0,Animal Planet HD
+http://45.166.93.156:9999/play/a0bp
+#EXTINF:0,Discovery Channel HD
+http://45.166.93.156:9999/play/a0i4
+#EXTINF:0,Nat Geo HD
+http://45.166.93.156:9999/play/a0i1
+#EXTINF:0,History HD
+http://45.166.93.156:9999/play/a0h8
+#EXTINF:0,Discovery ID HD
+http://45.166.93.156:9999/play/a0i8
+#EXTINF:0,DISC THEATHER HD
+http://45.166.93.156:9999/play/a0en
+#EXTINF:0,Discovery World HD
+http://45.166.93.156:9999/play/a0i5
+#EXTINF:0,Home & Health HD
+http://45.166.93.156:9999/play/a0eo
+#EXTINF:0,A&E HD
+http://45.166.93.156:9999/play/a08b
+#EXTINF:0,AMC HD
+http://45.166.93.156:9999/play/a0h2
+#EXTINF:0,Cine Premium HD
+http://45.166.93.156:9999/play/a0j3
+#EXTINF:0,CINECANAL HD
+http://45.166.93.156:9999/play/a0g7
+#EXTINF:0,DHE HD
+http://45.166.93.156:9999/play/a0bx
+#EXTINF:0,Golden Premiere HD
+http://45.166.93.156:9999/play/a0g3
+#EXTINF:0,HBO 1 HD
+http://45.166.93.156:9999/play/a0im
+#EXTINF:0,Sony Movies HD
+http://45.166.93.156:9999/play/a0bw
+#EXTINF:0,SPACE HD
+http://45.166.93.156:9999/play/a0fh
+#EXTINF:0,STAR CHANNEL HD
+http://45.166.93.156:9999/play/a09n
+#EXTINF:0,Studio Universal HD
+http://45.166.93.156:9999/play/a0is
+#EXTINF:0,TNT HD
+http://45.166.93.156:9999/play/a0em
 #EXTINF:0,WARNER HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.93.156:9999/play/a08k/index.m3u8
+http://45.166.93.156:9999/play/a08k
+#EXTINF:0,TCM
+http://45.166.93.156:9999/play/a0bj
