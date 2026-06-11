@@ -287,3 +287,36 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 #EXTINF:0,PLAYBOY HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m 3 u 8
+
+#EXTINF:0,A&E HD
+https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
+#EXTINF:0,AMC HD
+http://190.61.34.164:8000/play/a020
+#EXTINF:0,CINECANAL HD
+http://190.61.34.164:8000/play/a00c
+#EXTINF:0,GOLDEN HD
+http://190.61.34.164:8000/play/a008
+#EXTINF:0,HBO 2 HD
+http://190.61.34.164:8000/play/a00e
+
+#EXTINF:0,MULTIPREMIER HD
+http://190.61.34.164:8000/play/a026
+#EXTINF:0,SONY HD
+http://190.61.34.164:8000/play/a00b
+#EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 2)
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:0,CANAL 24/7 EL CHAVO DEL 8 HD
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:0,CANAL 24/7 MACGYVER HD
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+
+#EXTINF:0,CANAL 24/7 ALF (INGLES) HD
+https://tinyurl.com/mvyuanha?.m3u8
+#EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 1)
+https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
+#EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 2)
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:0,CANAL 24/7 EL CHAVO DEL 8 HD
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:0,CANAL 24/7 MACGYVER HD
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
