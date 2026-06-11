@@ -382,3 +382,31 @@ http://45.190.185.204:9000/play/a0lh
 https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
 #EXTINF:0,EDUCATIVO CUBA HD
 https://tv.picta.cu/educativo/educativo_0.m3u8
+
+
+#EXTINF:0,MULTIVISION 3 GUATEMALA HD
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+#EXTINF:0,CANAL 6 GUATEMALA HD
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/chunklist_w1239975419_b2176000.m3u8
+#EXTINF:0,MULTIVISION SPORTS GUATEMALA HD
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:0,VISION TV GUATEMALA HD
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:0,MAXIVISION TV GUATEMALA HD
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/chunklist_w571118298.m3u8
+#EXTINF:0,HCH HONDURAS HD
+https://live.streamhch.com/live/streams/hch1.m3u8
+#EXTINF:0,TELECEIBA HONDURAS HD
+https://teleceiba.com/stream/tlcb720.m3u8
+#EXTINF:0,TV CENTRO HONDURAS HD
+https://cloud2.streaminglivehd.com:1936/8032/8032/chunklist_w702199232.m3u8
+#EXTINF:0,ADN MX HD
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-gdai/60b578b060947317de7b57ac/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/5a073d0c-2e68-48c5-9ab5-c7a88a2a8057:ATL/variant/19674ddfeebe0edfb92343bd028eefc7/bandwidth/1623600.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=5a073d0c-2e68-48c5-9ab5-c7a88a2a8057%3AATL&pid=Oj0sd81ANBOBOmaQJlHTuiomMSfr7eXC&sid=F5dqGCYU9Am9HYtLaAwSA2TdN9kJww1C&uid=HOJEFyCvEUvgD3fLywCuMbhnMDcd0AEt&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1781268121244&ot=d7gAuawfDaUBKt-ToqZxyg&proto=https&pz=us&access_token=TvE49It2e9Uydg2DKWWPONOurwZsy0pBAAJI5gPmS7n4pzqZFsdmnJFMzBdiFIfPwa1KaSc44U4
+#EXTINF:0,TVMAX PARAGUAY HD
+https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
+#EXTINF:0,MEGA TV PARAGUAY HD
+https://www.desde-paraguay.com/mega.m3u8
+#EXTINF:0,ANTENA SUR PERU HD
+https://cloudpro.servidoresdestream.com:8081/8010/tracks-v1a1/mono.m3u8
+#EXTINF:0,RN TELEVISION PERU HD
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
