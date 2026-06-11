@@ -53,11 +53,11 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 https://d2qsan2ut81n2k.cloudfront.net/live/4508d726-f0c8-450c-b377-140a45707149/medialist_15609871089997455276_hls.m3u8
 #EXTINF:0,CANAL 43 TV SUR CR HD
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:0,TICAVISION CR HD
+#EXTINF:0,CANAL 52 TICAVISION CR HD
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w645867257.m3u8
-#EXTINF:0,TELE+ CR HD
+#EXTINF:0,CANAL 54 TELE+ CR HD
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
-#EXTINF:0,RETROX TV CR HD
+#EXTINF:0,CANAL 56 RETROX TV CR HD
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8?lb_backend_hint=6
 #EXTINF:0,CANAL TD+1 CR HD
 http://45.190.185.204:9000/play/a044
