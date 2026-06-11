@@ -340,5 +340,22 @@ https://play.once.net.ec/telerama/live.tv/538.m3u8
 https://cloudpro.servidoresdestream.com:8081/8020/tracks-v1a1/mono.m3u8
 #EXTINF:0,RTU ECUADOR HD
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
-#EXTINF:0,WARNER HD
+#EXTINF:0,CANAL 9 ARGENTINA HD
+https://stream.arcast.live/ahora/ahora/chunklist_w187124256.m3u8
+#EXTINF:0,CANAL 13 ARGENTINA HD
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
+#EXTINF:0,DISNEY JR ARGENTINA HD
+https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/h_764f57cde7d0c5b132978bd101cf8c7b/var5600000/aud12000/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix
+#EXTINF:0,TELECINCO ARGENTINA HD
+https://tvgarden.world/tv/ar/0nCwD83ATW66if
+#EXTINF:0,UNITEVE ARGENTINA HD
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:0,URBAN MIX ARGENTINA HD
+https://cloud.tvomix.com/URBANMIX/tracks-v1a1/mono.m3u8
+#EXTINF:0,XTREMA CARTOONS ARGENTINA HD
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8?hls_ctx=ii50u422
+#EXTINF:0,TEVEX CHILE HD
+https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,TVR CHILE HD
+https://unlimited1-us.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8?nimblesessionid=370844615
