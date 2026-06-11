@@ -370,11 +370,15 @@ https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:0,TICAVISION CR HD
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w645867257.m3u8
-#EXTINF:0,GOLDEN HD
-http://190.61.34.164:8000/play/a008
-#EXTINF:0,HBO 1 HD
-http://45.190.185.204:9000/play/a0le
-#EXTINF:0,HBO 2 HD
-http://45.190.185.204:9000/play/a0lf
-#EXTINF:0,HBO FAMILY HD
+#EXTINF:0,CANAL CLAVE CUBA HD
+https://tv.picta.cu/clave/clave_0.m3u8
+#EXTINF:0,CANAL HABANA CUBA HD
+https://tv.picta.cu/infantil/infantil_0.m3u8
+#EXTINF:0,CUBAVISION  HD
+https://tv.picta.cu/multivision/multivision_1.m3u8
+#EXTINF:0,MULTIVISION CUBA HD
 http://45.190.185.204:9000/play/a0lh
+#EXTINF:0,TELEREBELDE CUBA  HD
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
+#EXTINF:0,EDUCATIVO CUBA HD
+https://tv.picta.cu/educativo/educativo_0.m3u8
