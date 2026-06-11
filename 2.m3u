@@ -275,6 +275,17 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m
 https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo1/chunks.m3u8
 #EXTINF:0,AMC ESPAÑOL HD
 https://wurlrainbowmedia.global.transmit.live/hls/68c87c330d9e3b5fb3957d88/playlist.m3u8?wurl_channel=1228&wurl_name=AMCenEspanol&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+http://45.190.185.204:9000/play/a0o9
+#EXTINF:0,CANAL 24/7 ALF (INGLES) HD
+https://tinyurl.com/mvyuanha?.m3u8
+#EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 1)
+https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
+#EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 2)
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:0,CANAL 24/7 EL CHAVO DEL 8 HD
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:0,CANAL 24/7 MACGYVER HD
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 #EXTINF:0,A&E HD
 http://45.190.185.204:9000/play/a05o
 #EXTINF:0,AMC HD
@@ -298,19 +309,36 @@ http://45.190.185.204:9000/play/a0e3
 #EXTINF:0,SPACE HD
 http://45.190.185.204:9000/play/a06h
 #EXTINF:0,WARNER HD
-http://45.190.185.204:9000/play/a0o9
-#EXTINF:0,CANAL 24/7 ALF (INGLES) HD
-https://tinyurl.com/mvyuanha?.m3u8
-#EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 1)
-https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
-#EXTINF:0,CANAL 24/7 CASO CERRADO HD (OP 2)
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_5.m3u8
-#EXTINF:0,CANAL 24/7 EL CHAVO DEL 8 HD
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:0,CANAL 24/7 MACGYVER HD
-https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+
 
 
 
 #EXTINF:0,PLAYBOY HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m 3 u 8
+
+
+
+#EXTINF:0,AME 47 RD HD
+https://ss2.tvrdomi.com:1936/ame47/ame47/chunklist_w1890104447.m3u8
+#EXTINF:0,TELEMAX RD HD
+https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
+#EXTINF:0,CANAL 11 TUTV SLV HD
+https://stream.giostreaming.app/canal11/canal11.m3u8
+#EXTINF:0,MEGAVISION 19 SLV HD
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+#EXTINF:0,MEGAVISION 21 SLV HD
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+#EXTINF:0,HBO 1 HD
+http://45.190.185.204:9000/play/a0le
+#EXTINF:0,HBO 2 HD
+http://45.190.185.204:9000/play/a0lf
+#EXTINF:0,HBO FAMILY HD
+http://45.190.185.204:9000/play/a0lh
+#EXTINF:0,MULTIPREMIER HD
+http://190.61.34.164:8000/play/a026
+#EXTINF:0,SONY HD
+http://45.190.185.204:9000/play/a0e3
+#EXTINF:0,SPACE HD
+http://45.190.185.204:9000/play/a06h
+#EXTINF:0,WARNER HD
+
