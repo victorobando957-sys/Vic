@@ -359,3 +359,22 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8?hls_ctx
 https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,TVR CHILE HD
 https://unlimited1-us.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8?nimblesessionid=370844615
+
+
+
+#EXTINF:0,RETROX TV CR HD
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8?lb_backend_hint=6
+#EXTINF:0,TELEFIDES CR HD
+https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
+#EXTINF:0,TELE+ CR HD
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+#EXTINF:0,TICAVISION CR HD
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w645867257.m3u8
+#EXTINF:0,GOLDEN HD
+http://190.61.34.164:8000/play/a008
+#EXTINF:0,HBO 1 HD
+http://45.190.185.204:9000/play/a0le
+#EXTINF:0,HBO 2 HD
+http://45.190.185.204:9000/play/a0lf
+#EXTINF:0,HBO FAMILY HD
+http://45.190.185.204:9000/play/a0lh
