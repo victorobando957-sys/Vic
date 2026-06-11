@@ -328,17 +328,17 @@ https://stream.giostreaming.app/canal11/canal11.m3u8
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:0,MEGAVISION 21 SLV HD
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
-#EXTINF:0,HBO 1 HD
-http://45.190.185.204:9000/play/a0le
-#EXTINF:0,HBO 2 HD
-http://45.190.185.204:9000/play/a0lf
-#EXTINF:0,HBO FAMILY HD
-http://45.190.185.204:9000/play/a0lh
-#EXTINF:0,MULTIPREMIER HD
-http://190.61.34.164:8000/play/a026
-#EXTINF:0,SONY HD
-http://45.190.185.204:9000/play/a0e3
-#EXTINF:0,SPACE HD
-http://45.190.185.204:9000/play/a06h
+#EXTINF:0,TELEMAR ECUADOR HD
+https://cloudpro.servidoresdestream.com:8081/8020/tracks-v1a1/mono.m3u8
+#EXTINF:0,PLUS TV ECUADOR HD
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:0,RTV ECUADOR HD
+https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1494197597.m3u8
+#EXTINF:0,TELERAMA ECUADOR HD
+https://play.once.net.ec/telerama/live.tv/538.m3u8
+#EXTINF:0,TELEMAR ECUADOR HD
+https://cloudpro.servidoresdestream.com:8081/8020/tracks-v1a1/mono.m3u8
+#EXTINF:0,RTU ECUADOR HD
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 #EXTINF:0,WARNER HD
 
