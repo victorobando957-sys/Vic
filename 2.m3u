@@ -5,12 +5,8 @@ https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:0,CANAL 2 CR HD
 http://45.163.139.42:8000/play/a04x
-#EXTINF:0,CANAL 3 FUTV CR
-http://181.78.50.191:7225/play/a05j
 #EXTINF:100,CANAL 4 REPRETEL CR HD
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-#EXTINF:100,CANAL 5 FOX COSTA RICA HD
-http://200.229.147.142:8000/play/a0a5
 #EXTINF:100,CANAL 6 REPRETEL CR HD
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:3593,CANAL 7 TELETICA HD
@@ -59,10 +55,18 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w645867257.
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:0,CANAL 56 RETROX TV CR HD
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8?lb_backend_hint=6
-#EXTINF:0,ESPN 1 HD
-
-#EXTINF:0,ESPN 2 HD
-
+#EXTINF:0,TD+ 1 HD
+http://200.229.147.142:8000/play/a00d
+#EXTINF:0,TD+ 2 HD
+http://200.229.147.142:8000/play/a00e
+#EXTINF:100,FOX COSTA RICA HD
+http://200.229.147.142:8000/play/a0a5
+#EXTINF:0,FUTV CR
+http://181.78.50.191:7225/play/a05j
+#EXTINF:0,ESPN CENTRAL 1 HD
+http://190.61.34.164:8000/play/a01i
+#EXTINF:0,ESPN CENTRAL 2 HD
+http://190.61.34.164:8000/play/a01j
 #EXTINF:0,AZTECA DEPORTES HD
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 #EXTINF:0,TUDN USA HD
