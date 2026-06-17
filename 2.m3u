@@ -141,6 +141,8 @@ https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
 #EXTINF:0,CANAL 11 MEXICO HD
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:0,DE PELICULA HD
+http://190.61.114.186:8000/play/a02c
 #EXTINF:0,PELIMEX HD
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0,CANAL FILMEX COMEDIA HD
@@ -373,6 +375,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 #EXTINF:0,CANAL 24/7 FIFA HD
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:0,BITME HD
+http://190.61.114.186:8000/play/a01h
 #EXTINF:0,DISCOVERY KIDS HD
 http://181.78.50.191:7225/play/a00p
 #EXTINF:0,SEMILLITAS HD
@@ -383,6 +387,10 @@ http://179.60.224.196:8000/play/a0hn
 http://179.60.224.196:8000/play/a0ho
 #EXTINF:0,TOONCAST HD
 http://179.60.224.196:8000/play/a0hp
+#EXTINF:0,NICK JR HD
+http://190.61.114.186:8000/play/a01f
+#EXTINF:0,NICKELODOEN HD
+http://190.61.114.186:8000/play/a01g
 #EXTINF:0,AMC HD
 http://190.61.34.164:8000/play/a020
 #EXTINF:0,CINECANAL HD
@@ -391,6 +399,8 @@ http://190.61.34.164:8000/play/a00c
 http://181.78.50.191:7225/play/a04z
 #EXTINF:0,FX HD
 http://181.78.50.191:7225/play/a04w
+#EXTINF:0,GOLDEN HD
+http://190.61.114.186:8000/play/a008
 #EXTINF:0,HBO HD
 http://181.78.50.191:7225/play/a015
 #EXTINF:0,HBO 2 HD
