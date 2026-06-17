@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:0,CANAL CLARO HD
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-#EXTINF:0,CANAL 1 CR HD
-https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
+#EXTINF:0,CANAL 1 UNIVISION HD
+http://190.61.34.164:8000/play/a017
 #EXTINF:0,CANAL 2 CR HD
 http://45.163.139.42:8000/play/a04x
-#EXTINF:0,CANAL 3 UNIVISION HD
-http://190.61.34.164:8000/play/a017
+#EXTINF:0,CANAL 3 TELEMUNDO INTERNACIONAL HD
+http://190.61.34.164:8000/play/a001
 #EXTINF:100,CANAL 4 REPRETEL CR HD
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-#EXTINF:0,CANAL 5 TELEMUNDO INTERNACIONAL HD
-http://190.61.34.164:8000/play/a001
+#EXTINF:0,CANAL 5 MX HD
+http://209.87.175.160:5001/play/a0ll
 #EXTINF:100,CANAL 6 REPRETEL CR HD
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:3593,CANAL 7 TELETICA HD
