@@ -169,9 +169,7 @@ https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/E
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:0,LA VOZ DE MARIA HD
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
-#EXTINF:0,TELEFIDES CR HD
-https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
-#EXTINF:0,SAN JOSE TV HD
+#EXTINF:0,SAN JOSE CR HD
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
 #EXTINF:0,CGTN ESPAÑOL HD
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
