@@ -62,19 +62,25 @@ https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:0,CANAL 56 RETROX TV CR HD
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8?lb_backend_hint=6
 #EXTINF:0,TD+ 1 HD
-http://200.229.147.142:8000/play/a00d
+http://45.190.185.204:9000/play/a044
 #EXTINF:0,TD+ 2 HD
-http://200.229.147.142:8000/play/a00e
+http://45.190.185.204:9000/play/a045
 #EXTINF:100,FOX COSTA RICA HD
 http://45.166.93.156:9999/play/a003
-#EXTINF:0,FUTV CR
+#EXTINF:100,FOX COSTA RICA HD (OP 2)
+http://45.190.185.204:9000/play/a0ep
+#EXTINF:0,FUTV CR HD
 http://181.78.50.191:7225/play/a05j
+#EXTINF:0,FUTV CR HD (OP 2)
+http://45.190.185.204:9000/play/a0dk
 #EXTINF:0,ESPN CENTRAL 1 HD
 http://190.61.34.164:8000/play/a01i
 #EXTINF:0,ESPN CENTRAL 2 HD
 http://190.61.34.164:8000/play/a01j
 #EXTINF:0,AZTECA DEPORTES HD
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
+#EXTINF:0,TUDN MX HD
+http://45.190.185.204:9000/play/a0fz
 #EXTINF:0,TUDN USA HD
 https://streaming.alwaysdata.net/tudn.php
 #EXTINF:0,FOX DEPORTES HD
