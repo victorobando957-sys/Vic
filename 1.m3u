@@ -44,9 +44,9 @@ http://45.190.185.204:9000/play/a045
 #EXTINF:0,CANAL 22 ESPN CENTRAL 1 HD
 http://181.78.50.191:7225/play/a05k
 #EXTINF:0,CANAL 23 ESPN CENTRAL 2 HD
-http://181.78.50.191:7225/play/a05l
-#EXTINF:0,CANAL 24 WWE SUPERSTARS CHANNEL HD
-https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
+http://200.35.176.154:8000/play/a053
+#EXTINF:0,CANAL 24 WWE HD
+http://200.115.120.1:8000/play/ca121
 #EXTINF:0,CANAL 25 OROMAR TV HD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:0,CANAL 26 DIGITAL 15 RD HD
@@ -65,5 +65,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 #EXTINF:0,CANAL 33 XPERT TV CR HD
 http://45.163.139.42:8000/play/a02x
-#EXTINF:0,CANAL 34 PLAYBOY HD
+#EXTINF:0,CANAL 34 WWE SUPERSTARS CHANNEL HD
+https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
+#EXTINF:0,CANAL 35 PLAYBOY HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
