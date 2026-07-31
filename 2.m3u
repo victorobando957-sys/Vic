@@ -6,11 +6,11 @@ http://45.163.139.42:8000/play/a04x
 #EXTINF:0,CANAL 3 TELEMUNDO INTERNACIONAL HD
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:100,CANAL 4 REPRETEL CR HD
-http://45.163.139.42:8000/play/a02p
+https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
 #EXTINF:0,CANAL 5 MX HD
 http://209.87.175.160:5001/play/a0ll
 #EXTINF:100,CANAL 6 REPRETEL CR HD
-http://45.163.139.42:8000/play/a02o
+https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8
 #EXTINF:3593,CANAL 7 TELETICA HD
 http://45.163.139.42:8000/play/a02k
 #EXTINF:0,CANAL 8 MULTIMEDIOS CR HD
@@ -20,7 +20,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:0,CANAL 10 LAS ESTRELLAS MX HD
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:100,CANAL 11 REPRETEL CR HD
-http://45.163.139.42:8000/play/a03a
+https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8
 #EXTINF:0,CANAL 12 AZ CORAZON INTER HD
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 #EXTINF:0,CANAL 13 SINART CR HD
@@ -40,7 +40,7 @@ https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:0,CANAL 20 DISTRITO COMEDIA HD
 http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
 #EXTINF:0,CANAL 21 CANAL CLARO HD
-http://24.152.54.30:8085/play/a00s
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 #EXTINF:0,CANAL 31 CRISTO VISION CR HD
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 #EXTINF:0,CANAL 33 XPERT TV CR HD
@@ -78,7 +78,7 @@ http://181.78.50.191:7225/play/a05k
 #EXTINF:0,ESPN CENTRAL 2 HD
 http://200.35.176.154:8000/play/a053
 #EXTINF:0,AZTECA DEPORTES HD
-https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 #EXTINF:0,TUDN MX HD
 http://179.60.224.196:8000/play/a0f4
 #EXTINF:0,TUDN USA HD
@@ -86,7 +86,7 @@ https://streaming.alwaysdata.net/tudn.php
 #EXTINF:0,FOX DEPORTES HD
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:0,CLARO SPORTS HD
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:0,FOX EN ESPAÑOL HD
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:0,DEPORTES TVC HD
@@ -103,6 +103,10 @@ https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 http://200.115.120.1:8000/play/ca121
 #EXTINF:0,WWE SUPERSTARS CHANNEL HD
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
+#EXTINF:0,TNT NOVELAS HD
+http://15.204.246.24:8080/TNTNovelasHD/index.m3u8
+#EXTINF:0,TLNOVELAS HD
+http://177.234.249.135:8888/Telenovelas/index.m3u8
 #EXTINF:0,ANIMAL PLANET HD
 http://181.78.50.191:7225/play/a04q
 #EXTINF:0,DISCOVERY CHANNEL HD
@@ -169,12 +173,14 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:0,VIX UNIVISION HD
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:0,TELEMUNDO INTERNACIONAL HD
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF:0,TELEMUNDO ACCION HD
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0,TELEMUNDO NOTICIAS CALIFORNIA HD
 https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
-#EXTINF:0,TELEMUNDO PR HD
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:0,TELEMUNDO HD
+http://170.254.17.2:80/TELEMUNDO/index.m3u8
 #EXTINF:0,TELEONCE PR HD
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo3/chunks.m3u8
 #EXTINF:0,EWTN ESPAÑOL HD
@@ -256,7 +262,7 @@ https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:0,CANAL 11 TUTV SLV HD
 https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:0,CANAL 12 EL SALVADOR HD
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8
 #EXTINF:0,MEGAVISION 19 SLV HD
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:0,MEGAVISION 21 SLV HD
