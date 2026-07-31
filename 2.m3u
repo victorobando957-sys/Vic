@@ -60,13 +60,15 @@ https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:0,CANAL 56 RETROX TV CR HD
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8?lb_backend_hint=6
 #EXTINF:0,TD+ 1 HD
-http://45.190.185.204:9000/play/a044
+http://200.229.147.210:9999/play/a00g
 #EXTINF:0,TD+ 2 HD
 http://186.33.24.156:8000/play/a0jc
 #EXTINF:100,FOX COSTA RICA HD
 http://45.166.93.156:9999/play/a003
 #EXTINF:100,FOX COSTA RICA HD (OP 2)
 http://200.229.147.210:9999/play/a03x
+#EXTINF:0,TIGO SPORTS HD
+http://200.229.147.210:9999/play/a0as
 #EXTINF:0,FUTV CR HD
 http://181.78.50.191:7225/play/a05j
 #EXTINF:0,FUTV CR HD (OP 2)
@@ -85,8 +87,6 @@ https://streaming.alwaysdata.net/tudn.php
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:0,CLARO SPORTS HD
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:0,TIGO SPORTS HD
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 #EXTINF:0,FOX EN ESPAÑOL HD
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:0,DEPORTES TVC HD
@@ -412,7 +412,7 @@ http://181.78.50.191:7225/play/a094
 #EXTINF:0,CINECANAL HD
 http://181.78.50.191:7225/play/a084
 #EXTINF:0,CINEMAX HD
-http://200.59.188.3:8000/play/a14r
+http://45.166.93.156:9999/play/a0ig
 #EXTINF:0,CINE PREMIUM HD
 http://181.78.50.191:7225/play/a0ay
 #EXTINF:0,DHE HD
@@ -441,7 +441,11 @@ http://45.166.93.156:9999/play/a0fh
 http://45.166.93.156:9999/play/a09n
 #EXTINF:0,SONY HD
 http://181.78.50.191:7225/play/a083
+#EXTINF:0,TCM HD
+http://190.61.114.186:8000/play/a02b
 #EXTINF:0,TNT HD
 http://45.166.93.156:9999/play/a0em
+#EXTINF:0,USA HD
+http://190.61.114.186:8000/play/a04c
 #EXTINF:0,WARNER HD
 http://45.166.93.156:9999/play/a08k
