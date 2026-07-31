@@ -8,15 +8,13 @@ http://45.163.139.42:8000/play/a04x
 #EXTINF:0,CANAL 3 TELEMUNDO INTERNACIONAL HD
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:100,CANAL 4 REPRETEL CR HD
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+http://45.163.139.42:8000/play/a02p
 #EXTINF:0,CANAL 5 MX HD
 http://209.87.175.160:5001/play/a0ll
 #EXTINF:100,CANAL 6 REPRETEL CR HD
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+http://45.163.139.42:8000/play/a02o
 #EXTINF:3593,CANAL 7 TELETICA HD
-#EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
-#EXTVLCOPT:network-caching=1000
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+http://45.163.139.42:8000/play/a02k
 #EXTINF:0,CANAL 8 MULTIMEDIOS CR HD
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:0,CANAL 9 AZTECA INTERNACIONAL HD
@@ -24,7 +22,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:0,CANAL 10 LAS ESTRELLAS MX HD
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:100,CANAL 11 REPRETEL CR HD
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+http://45.163.139.42:8000/play/a03a
 #EXTINF:0,CANAL 12 AZ CORAZON INTER HD
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 #EXTINF:0,CANAL 13 SINART CR HD
@@ -42,7 +40,7 @@ https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
 #EXTINF:0,CANAL 19 TELERED CR HD
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:0,CANAL 20 DISTRITO COMEDIA HD
-http://190.61.34.164:8000/play/a033
+http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
 #EXTINF:0,CANAL 31 CRISTO VISION CR HD
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 #EXTINF:0,CANAL 33 XPERT TV CR HD
@@ -80,7 +78,7 @@ http://200.35.176.154:8000/play/a053
 #EXTINF:0,AZTECA DEPORTES HD
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 #EXTINF:0,TUDN MX HD
-http://45.190.185.204:9000/play/a0fz
+http://179.60.224.196:8000/play/a0f4
 #EXTINF:0,TUDN USA HD
 https://streaming.alwaysdata.net/tudn.php
 #EXTINF:0,FOX DEPORTES HD
