@@ -13,22 +13,22 @@ http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
 http://45.163.139.42:8000/play/a02o
 #EXTINF:0,CANAL 7 CR HD
 http://45.163.139.42:8000/play/a02k
-#EXTINF:0,CANAL 8 UNIVERSO HD
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:0,CANAL 8 DE PELICULA HD
+http://190.11.225.124:5000/live/depelicula/playlist.m3u8
 #EXTINF:0,CANAL 9 DISTRITO COMEDIA HD
 http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
 #EXTINF:0,CANAL 10 LAS ESTRELLAS HD
-http://181.78.50.191:7225/play/a0a5
+http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8
 #EXTINF:0,CANAL 11 CR HD
 http://45.163.139.42:8000/play/a03a
 #EXTINF:0,CANAL 12 SOY CR HD
 http://45.163.139.42:8000/play/a03e
 #EXTINF:0,CANAL 13 CR HD
 http://45.163.139.42:8000/play/a02r
-#EXTINF:0,CANAL 14 HISTORY HD
+#EXTINF:0,CANAL 14 UNIVERSO HD
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:0,CANAL 15 HISTORY HD
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-#EXTINF:0,CANAL 15 WILD PLANET HD
-https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 #EXTINF:0,CANAL 16 ANIMAL PLANET HD
 http://181.78.50.191:7225/play/a04q
 #EXTINF:0,CANAL 17 DISCOVERY CHANNEL HD
