@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,CANAL CLARO HD
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+http://24.152.54.30:8085/play/a00s
 #EXTINF:0,CANAL 1 UNIVISION HD
 http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
 #EXTINF:0,CANAL 2 CR HD
