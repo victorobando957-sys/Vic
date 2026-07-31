@@ -64,19 +64,19 @@ https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8?lb_backend_hint=6
 #EXTINF:0,TD+ 1 HD
 http://45.190.185.204:9000/play/a044
 #EXTINF:0,TD+ 2 HD
-http://45.190.185.204:9000/play/a045
+http://186.33.24.156:8000/play/a0jc
 #EXTINF:100,FOX COSTA RICA HD
 http://45.166.93.156:9999/play/a003
 #EXTINF:100,FOX COSTA RICA HD (OP 2)
-http://45.190.185.204:9000/play/a0ep
+http://200.229.147.210:9999/play/a03x
 #EXTINF:0,FUTV CR HD
 http://181.78.50.191:7225/play/a05j
 #EXTINF:0,FUTV CR HD (OP 2)
 http://45.190.185.204:9000/play/a0dk
 #EXTINF:0,ESPN CENTRAL 1 HD
-http://190.61.34.164:8000/play/a01i
+http://181.78.50.191:7225/play/a05k
 #EXTINF:0,ESPN CENTRAL 2 HD
-http://190.61.34.164:8000/play/a01j
+http://200.35.176.154:8000/play/a053
 #EXTINF:0,AZTECA DEPORTES HD
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 #EXTINF:0,TUDN MX HD
@@ -101,6 +101,8 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 https://faststudios-womensnetwork-tcl.amagi.tv/playlist1080p.m3u8
 #EXTINF:0,CANAL FOX SPORTS USA  HD
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
+#EXTINF:0,CANAL WWE HD
+http://200.115.120.1:8000/play/ca121
 #EXTINF:0,WWE SUPERSTARS CHANNEL HD
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:0,ANIMAL PLANET HD
