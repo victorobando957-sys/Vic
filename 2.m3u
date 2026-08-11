@@ -151,6 +151,8 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999210
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:0,DISCOVERY TURBO HD
 https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
+#EXTINF:0,DISCOVERY TURBO (OPCION 2)HD
+http://181.78.84.78:8910/play/a07l
 #EXTINF:0,E! LA MEXICO HD
 http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:0,EL GOURMET HD
