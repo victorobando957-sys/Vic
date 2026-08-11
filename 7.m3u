@@ -127,5 +127,7 @@ http://190.61.114.186:8000/play/a04c
 http://45.166.93.156:9999/play/a08k
 #EXTINF:0,VENUS HD
 http://200.229.147.210:9999/play/a05m
+#EXTINF:0,SEXTREME HD
+http://38.190.100.202:8000/play/a09u
 #EXTINF:0,PLAYBOY HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
