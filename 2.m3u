@@ -3,8 +3,8 @@
 http://45.5.117.99:8000/play/a066
 #EXTINF:0,CANAL 2 CR HD
 http://45.163.139.42:8000/play/a04x
-#EXTINF:0,CANAL 3 HD
-https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
+#EXTINF:0,CANAL 3 TELEMUNDO INTERNACIONAL HD
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF:100,CANAL 4 REPRETEL CR HD
 https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
 #EXTINF:0,CANAL 5 MX HD
@@ -123,8 +123,6 @@ http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:0,VIX UNIVISION HD
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-#EXTINF:0,TELEMUNDO INTERNACIONAL HD
-http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF:0,TELEMUNDO ACCION HD
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0,TELEMUNDO NOTICIAS CALIFORNIA HD
