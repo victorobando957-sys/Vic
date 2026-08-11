@@ -61,7 +61,11 @@ https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8?lb_backend_hint=6
 #EXTINF:0,TD+ 1 HD
 http://200.229.147.210:9999/play/a00g
+#EXTINF:0,TD+ 1 (OPCION 2)HD
+http://200.229.147.210:9999/play/a00g
 #EXTINF:0,TD+ 2 HD
+http://200.229.147.210:9999/play/a00h
+#EXTINF:0,TD+ 2 (OPCION 2)HD
 http://186.33.24.156:8000/play/a0jc
 #EXTINF:0,FUTV CR HD
 http://181.78.50.191:7225/play/a05j
@@ -185,6 +189,10 @@ https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 http://190.11.225.124:5000/live/azcinema_hd/playlist.m3u8
 #EXTINF:0,CANAL FILMEX COMEDIA HD
 https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8
+#EXTINF:0,MULTICINEMA HD
+http://190.108.90.142:8000/play/a00y
+#EXTINF:0,MULTIPREMIER HD
+http://190.108.90.142:8000/play/a017
 #EXTINF:0,RTG MX HD
 https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8
 #EXTINF:0,NUEVE TV MX HD
