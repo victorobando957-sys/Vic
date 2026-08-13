@@ -95,6 +95,8 @@ https://streaming.alwaysdata.net/tudn.php
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:0,DEPORTES TVC HD
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:0,MULTIVISION SPORTS HD
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:0,TyC HD
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:0,BEIN SPORT XTRA EN ESPAÑOL HD
@@ -111,6 +113,8 @@ https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 http://15.204.246.24:8080/TNTNovelasHD/index.m3u8
 #EXTINF:0,TLNOVELAS HD
 http://177.234.249.135:8888/Telenovelas/index.m3u8
+#EXTINF:0,PASIONES LATINOAMERICA HD
+http://45.162.193.35/PASIONESHD/index.m3u8
 #EXTINF:0,UNIMAS HD
 http://190.197.41.183/Unimas/mono.m3u8
 #EXTINF:0,UNIVISION HD
@@ -134,7 +138,7 @@ http://181.78.50.191:7225/play/a04q
 #EXTINF:0,DISCOVERY CHANNEL HD
 http://181.78.50.191:7225/play/a05r
 #EXTINF:0,NAT GEO HD
-http://45.162.193.35/NATGEO/index.m3u8
+http://181.78.50.191:7225/play/a05o
 #EXTINF:0,HISTORY HD
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:0,HISTORY 2 HD
