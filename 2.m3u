@@ -87,10 +87,6 @@ http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 http://179.60.224.196:8000/play/a0f4
 #EXTINF:0,TUDN USA HD
 https://streaming.alwaysdata.net/tudn.php
-#EXTINF:0,FOX DEPORTES HD
-https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:0,CLARO SPORTS HD
-https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:0,FOX EN ESPAÑOL HD
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:0,DEPORTES TVC HD
@@ -152,8 +148,6 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999210
 #EXTINF:0,CGTN DOCUMENTARY HD
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:0,DISCOVERY TURBO HD
-https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
-#EXTINF:0,DISCOVERY TURBO (OPCION 2)HD
 http://181.78.84.78:8910/play/a07l
 #EXTINF:0,E! LA MEXICO HD
 http://72.1.184.5:8089/play/a05d/index.m3u8
@@ -183,20 +177,12 @@ https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
 #EXTINF:0,CANAL 11 MEXICO HD
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:0,DE PELICULA HD
-http://190.61.114.186:8000/play/a02c
-#EXTINF:0,DE PELICULA (OP 2) HD
-http://181.78.50.191:7225/play/a0a1
 #EXTINF:0,PELIMEX HD
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0,AZ CINEMA HD
 http://190.11.225.124:5000/live/azcinema_hd/playlist.m3u8
 #EXTINF:0,CANAL FILMEX COMEDIA HD
 https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8
-#EXTINF:0,MULTICINEMA HD
-http://190.108.90.142:8000/play/a00y
-#EXTINF:0,MULTIPREMIER HD
-http://190.108.90.142:8000/play/a017
 #EXTINF:0,RTG MX HD
 https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8
 #EXTINF:0,NUEVE TV MX HD
@@ -235,8 +221,6 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 https://d2w3o8zn50cs1k.cloudfront.net/medialist_4276517416086298479_hls.m3u8
 #EXTINF:0,TVC HD
 https://d2m7i0pvomh4vg.cloudfront.net/medialist_4276517416086298479_hls.m3u8
-#EXTINF:0,TVC HD
-https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
 #EXTINF:0,ECUAVISA QUITO HD
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:0,ECUAVISA GUAYAQUIL HD
@@ -423,69 +407,3 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 #EXTINF:0,CANAL 24/7 FIFA HD
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:0,BITME HD
-http://190.61.114.186:8000/play/a01h
-#EXTINF:0,DISCOVERY KIDS HD
-http://181.78.50.191:7225/play/a00p
-#EXTINF:0,SEMILLITAS HD
-http://181.78.50.191:7225/play/a01p
-#EXTINF:0,CARTOONITO HD
-http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
-#EXTINF:0,CARTOON NETWORK HD
-http://179.60.224.196:8000/play/a0hn
-#EXTINF:0,DISNEY CHANNEL HD
-http://179.60.224.196:8000/play/a0ho
-#EXTINF:0,DISNEY JR HD
-http://177.234.249.178:8888/DISNEY-JR/index.m3u8
-#EXTINF:0,TOONCAST HD
-http://179.60.224.196:8000/play/a0hp
-#EXTINF:0,NICK JR HD
-http://190.61.114.186:8000/play/a01f
-#EXTINF:0,NICKELODEON HD
-http://190.61.114.186:8000/play/a01g
-#EXTINF:0,AMC HD
-http://181.78.50.191:7225/play/a04u
-#EXTINF:0,A&E HD
-http://181.78.50.191:7225/play/a04t
-#EXTINF:0,AXN HD
-http://181.78.50.191:7225/play/a094
-#EXTINF:0,CINECANAL HD
-http://181.78.50.191:7225/play/a084
-#EXTINF:0,CINEMAX HD
-http://45.166.93.156:9999/play/a0ig
-#EXTINF:0,CINE PREMIUM HD
-http://181.78.50.191:7225/play/a0ay
-#EXTINF:0,DHE HD
-http://181.78.50.191:7225/play/a04z
-#EXTINF:0,FX HD
-http://181.78.50.191:7225/play/a04w
-#EXTINF:0,GOLDEN HD
-http://190.61.114.186:8000/play/a008
-#EXTINF:0,GOLDEN PREMIER 1 HD
-http://181.78.50.191:7225/play/a00q
-#EXTINF:0,GOLDEN PREMIER 2 HD
-http://181.78.50.191:7225/play/a00r
-#EXTINF:0,HBO 1 HD
-http://181.78.50.191:7225/play/a015
-#EXTINF:0,HBO 2 HD
-http://181.78.50.191:7225/play/a016
-#EXTINF:0,HBO FAMILY HD
-http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
-#EXTINF:0,HBO PLUS HD
-http://181.78.50.191:7225/play/a017
-#EXTINF:0,STUDIO UNIVERSAL HD
-http://181.78.50.191:7225/play/a04p
-#EXTINF:0,SPACE HD
-http://45.166.93.156:9999/play/a0fh
-#EXTINF:0,STAR CHANNEL HD
-http://45.166.93.156:9999/play/a09n
-#EXTINF:0,SONY HD
-http://181.78.50.191:7225/play/a083
-#EXTINF:0,TCM HD
-http://190.61.114.186:8000/play/a02b
-#EXTINF:0,TNT HD
-http://45.166.93.156:9999/play/a0em
-#EXTINF:0,USA HD
-http://190.61.114.186:8000/play/a04c
-#EXTINF:0,WARNER HD
-http://45.166.93.156:9999/play/a08k
