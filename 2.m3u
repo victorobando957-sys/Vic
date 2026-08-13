@@ -229,6 +229,10 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:0,RTS HD
 https://d2w3o8zn50cs1k.cloudfront.net/medialist_4276517416086298479_hls.m3u8
+#EXTINF:0,RTS HD
+http://45.171.108.253:8888/RTS/index.m3u8
+#EXTINF:0,TVC HD
+http://45.224.97.181:9999/TVC/index.m3u8
 #EXTINF:0,TVC HD
 https://d2m7i0pvomh4vg.cloudfront.net/medialist_4276517416086298479_hls.m3u8
 #EXTINF:0,ECUAVISA QUITO HD
@@ -247,6 +251,10 @@ http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 #EXTINF:0,TELEMICRO 5 RD HD
 http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
+#EXTINF:0,TELEMICRO 5 RD (480) HD
+https://live2.telemicro.com.do/live/55/playlist.m3u8
+#EXTINF:0,TELESISTEMA 11 RD (480) HD
+https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8
 #EXTINF:0,TELESISTEMA 11 RD HD
 http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8
 #EXTINF:0,TELE ANTILLAS RD HD
@@ -455,6 +463,14 @@ http://45.162.193.35/CINECANAL/index.m3u8
 http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:0,FX LATINOAMERICA HD
 http://45.162.193.35/FX/index.m3u8
+#EXTINF:0,STAR CHANNEL LATINOAMERICA HD
+http://45.162.193.35/STAR_CHANNEL/index.m3u8
+#EXTINF:0,STUDIO UNIVERSAL LATINOAMERICA HD
+http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL LATINOAMERICA HD
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+#EXTINF:0,USA CHANNEL LATINOAMERICA HD
+http://138.121.15.230:9002/USA/index.m3u8
 #EXTINF:0,BITME HD
 https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
 #EXTINF:0,DISNEY CHANNEL LATINOAMERICA HD
