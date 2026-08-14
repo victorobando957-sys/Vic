@@ -3,6 +3,8 @@
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:0,CANAL 2 CR HD
 http://45.163.139.42:8000/play/a04x
+#EXTINF:0,CANAL 3 CR HD
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 #EXTINF:100,CANAL 4 REPRETEL CR HD
 https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
 #EXTINF:100,CANAL 6 REPRETEL CR HD
@@ -11,6 +13,8 @@ https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8
 http://45.163.139.42:8000/play/a02k
 #EXTINF:0,CANAL 8 MULTIMEDIOS CR HD
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0,CANAL 10 CR HD
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:100,CANAL 11 REPRETEL CR HD
 https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8
 #EXTINF:0,CANAL 13 SINART CR HD
@@ -59,8 +63,6 @@ http://179.60.224.196:8000/play/a0f4
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:0,AZTECA DEPORTES HD
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
-#EXTINF:0,DEPORTES TVC HD
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
 #EXTINF:0,MULTIVISION SPORTS GUATEMALA HD
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:0,TyC HD
@@ -168,13 +170,9 @@ https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/e
 #EXTINF:0,ECUAVISA GUAYAQUIL HD
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:0,TELECENTRO RD HD
-http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
-#EXTINF:0,TELECENTRO RD HD
 https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
 #EXTINF:0,ANTENA 7 RD HD
 http://190.122.104.210:5080/LiveApp/streams/alatina.m3u8
-#EXTINF:0,DIGITAL 15 RD HD
-http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 #EXTINF:0,DIGITAL 15 RD HD
 https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 #EXTINF:0,TELEMICRO 5 RD HD
@@ -263,14 +261,6 @@ https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
 https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8
 #EXTINF:0,CANAL 24/7 CSI NY ESPAÑOL HD
 https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
-#EXTINF:0,SOY CR HD
-http://tinyurl.com/TvZaTak014/s6
-#EXTINF:0,TELERITMO HD
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0,IQ CHANNEL CR HD
-https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:0,VINTAGE MUSIC CR HD
-http://tinyurl.com/TvZaTak014/s7
 #EXTINF:0,NOW 70 HD
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&amp;ads_amznbrmid=&amp;ads_amznregion=&amp;ads_amznslots=&amp;ads_app_bundle=com.rakuten.tv&amp;ads_app_store_url=rakuten.tv&amp;ads_app_version=&amp;ads_brand_name=&amp;ads_content_classification=0&amp;ads_device_lmt=1&amp;ads_device_make=&amp;ads_device_model=&amp;ads_device_type=web&amp;ads_device_year=&amp;ads_env=prod&amp;ads_gam_correlator=&amp;ads_gdpr_consent=&amp;ads_market=es&amp;ads_os_language=&amp;ads_player_height=&amp;ads_player_width=&amp;ads_pod_type=playerpage_midroll&amp;ads_ppid=&amp;ads_rtv_content_id=5284&amp;ads_rtv_content_language=eng&amp;ads_rtvid=271859&amp;ads_streaming_id=4502bde1-0c90-40b8-bf62-2ea25e526b2a&amp;ads_tivo_devcountry=&amp;ads_tivo_devmakedate=&amp;ads_tivo_mvpd=&amp;ads_tivo_platform=&amp;ads_tivo_usid=&amp;ads_tivo_uxloc=&amp;ads_user_type=visitor
 #EXTINF:0,NOW 80 HD
@@ -279,3 +269,11 @@ https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 #EXTINF:0,VEVO 90 HD
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:0,SOY CR HD
+http://tinyurl.com/TvZaTak014/s6
+#EXTINF:0,TELERITMO HD
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0,IQ CHANNEL CR HD
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:0,VINTAGE MUSIC CR HD
+http://tinyurl.com/TvZaTak014/s7
