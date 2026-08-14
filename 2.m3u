@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,CANAL 1 CR HD
+https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:0,CANAL 2 CR HD
 http://45.163.139.42:8000/play/a04x
 #EXTINF:100,CANAL 4 REPRETEL CR HD
