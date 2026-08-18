@@ -83,8 +83,6 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:0,CANAL FOX SPORTS USA  HD
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
-#EXTINF:0,CANAL WWE HD
-http://200.115.120.1:8000/play/ca121
 #EXTINF:0,WOMENS SPORT NETWORK HD
 https://faststudios-womensnetwork-tcl.amagi.tv/playlist1080p.m3u8
 #EXTINF:0,EWTN ESPAÑOL HD
@@ -188,7 +186,7 @@ http://190.122.104.210:5080/LiveApp/streams/alatina.m3u8
 #EXTINF:0,DIGITAL 15 RD HD
 http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 #EXTINF:0,TELEMICRO 5 RD HD
-http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
+https://live2.telemicro.com.do/live/55/playlist.m3u8
 #EXTINF:0,TELESISTEMA 11 RD HD
 https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8
 #EXTINF:0,TELE ANTILLAS RD HD
