@@ -55,24 +55,36 @@ https://stream.lamegatv.com/hls/sanvitotelevision/index.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:0,CANAL 60 LIMON TV CR HD
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-#EXTINF:0,TD+ 1 HD
-http://200.229.147.210:9999/play/a00g
-#EXTINF:0,TD+ 2 HD
-http://200.229.147.210:9999/play/a00h
-#EXTINF:100,FOX COSTA RICA HD
-http://190.83.15.112:8000/play/a0b5
 #EXTINF:0,FUTV CR HD
 http://45.182.22.53:8000/play/a0ci
 #EXTINF:0,FUTV CR (OP 2) HD
-http://181.78.50.191:7225/play/a05j
+http://186.33.57.100:8000/play/a179
+#EXTINF:0,FUTV CR (OP 3) HD
+http://200.57.28.141:8540/play/a063
+#EXTINF:0,FOX CR HD
+http://190.83.15.112:8000/play/a0b5
+#EXTINF:0,FOX CR (OP 2) HD
+http://200.229.147.210:9999/play/a03x
+#EXTINF:0,FOX CR (OP 3) HD
+http://45.182.22.53:8000/play/a0b7
+#EXTINF:0,FOX PLUS HD
+http://181.78.106.127:5000/play/a00d
+#EXTINF:0,TD+ 1 HD
+http://200.229.147.210:9999/play/a00g
+#EXTINF:0,TD+ 1 (OP 2) HD
+http://45.182.22.53:8000/play/a07m
+#EXTINF:0,TD+ 2 HD
+http://200.229.147.210:9999/play/a00h
+#EXTINF:0,TD+ 2 (OP 2) HD
+http://45.182.22.53:8000/play/a07n
 #EXTINF:0,ESPN CENTRAL 1 HD
 http://45.182.22.53:8000/play/a0cj
 #EXTINF:0,ESPN CENTRAL 1 (OP 2) HD
-http://181.78.50.191:7225/play/a05k
+http://181.78.106.127:5000/play/ca033
 #EXTINF:0,ESPN CENTRAL 2 HD
-http://45.182.22.53:8000/play/a0ck
-#EXTINF:0,ESPN CENTRAL 2 (OP 2) HD
 http://200.35.176.154:8000/play/a053
+#EXTINF:0,ESPN CENTRAL 2 (OP 2) HD
+http://45.182.22.53:8000/play/a0ck
 #EXTINF:0,ESPN DEPORTES HD
 http://40.160.24.58/ESPN_DEPORTES/index.m3u8
 #EXTINF:0,TUDN MX HD
